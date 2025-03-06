@@ -1,0 +1,2899 @@
+{
+    "translations": [
+        {
+            "lang": "it",
+            "cards": [
+                {
+                    "id": "1",
+                    "name": "Addetto alla Colazione",
+                    "description": "Una volta per round, puoi usare questa carta per ricevere 1 strudel"
+                },
+                {
+                    "id": "2",
+                    "name": "Cameriera",
+                    "description": "Una volta per round, puoi usare questa carta per ricevere 1 torta"
+                },
+                {
+                    "id": "3",
+                    "name": "Barman",
+                    "description": "Una volta per round, puoi usare questa carta per ricevere 1 vino"
+                },
+                {
+                    "id": "4",
+                    "name": "Aiuto Cuoco",
+                    "description": "Una volta per round, puoi usare questa carta per ricevere 1 caffè"
+                },
+                {
+                    "id": "5",
+                    "name": "Stalliere",
+                    "description": "Ogni volta che rimuovi dalla tua caffetteria un ospite rosso di cui hai completato l'ordine ricevi 2 corone"
+                },
+                {
+                    "id": "6",
+                    "name": "Cocchiere",
+                    "description": "Ogni volta che rimuovi dalla tua caffetteria un ospite blu di cui hai completato l'ordine puoi avanzare di 1 casella sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "7",
+                    "name": "Massaggiatrice",
+                    "description": "Ogni volta che rimuovi dalla tua caffetteria un ospite giallo di cui hai completato l'ordine ricevi 1 corona"
+                },
+                {
+                    "id": "8",
+                    "name": "Guida Turistica",
+                    "description": "Ogni volta che rimuovi dalla tua caffetteria un ospite verde di cui hai completato l'ordine ottieni 2 PV"
+                },
+                {
+                    "id": "9",
+                    "name": "Maggiordomo",
+                    "description": "D'ora in poi, ogni volta che prepari una camera blu (con qualsiasi azione o effetto) lo fai gratuitamente (paga 0 corone). Questi effetti non forniscono un'azione gratuita, ne rimuovono solo il costo"
+                },
+                {
+                    "id": "10",
+                    "name": "Autista",
+                    "description": "D'ora in poi, ogni volta che prepari una camera rossa (con qualsiasi azione o effetto) lo fai gratuitamente (paga 0 corone). Questi effetti non forniscono un'azione gratuita, ne rimuovono solo il costo"
+                },
+                {
+                    "id": "11",
+                    "name": "Fioraia",
+                    "description": "D'ora in poi, ogni volta che prepari una camera gialla (con qualsiasi azione o effetto) lo fai gratuitamente (paga 0 corone). Questi effetti non forniscono un'azione gratuita, ne rimuovono solo il costo"
+                },
+                {
+                    "id": "12",
+                    "name": "Governante",
+                    "description": "Ogni volta che prendi un dado di valore 3 o 4 ottieni immediatamente 2 PV"
+                },
+                {
+                    "id": "13",
+                    "name": "Direttore di Ristorante",
+                    "description": "Ogni volta che prendi un dado di valore 1 o 2 puoi aggiungere 1 alla forza di quell'azione.È possibile potenziarne ulteriormente la forza pagando 1 corona"
+                },
+                {
+                    "id": "14",
+                    "name": "Decoratore",
+                    "description": "Ogni volta che prendi un dado di valore 1 o 2, prima o dopo aver effettuato l'azione principale, puoi anche preparare 1 camera (di qualsiasi colore) pagandone il costo.Non potete effettuare azioni aggiuntive tra l'azione principale e la preparazione di questa camera. Questi effetti non forniscono un'azione gratuita, ne rimuovono solo il costo"
+                },
+                {
+                    "id": "15",
+                    "name": "Lustrascarpe",
+                    "description": "Non devi più scegliere quando prendi un dado di valore 4: per ogni dado in quest'area azione ricevi 1 corona e puoi avanzare di 1 casella sul tracciato dell'Imperatore.Come di consueto, è possibile potenziarne la forza pagando 1 corona,ricevendo indietro 1 corona e avanzando di 1 casella sul tracciato dell'Imperatore (praticamente guadagnando 1 casella gratuitamente)"
+                },
+                {
+                    "id": "16",
+                    "name": "Lavandaia",
+                    "description": "Ogni volta che prendi un dado di valore 4 ottieni immediatamente 4 PV"
+                },
+                {
+                    "id": "17",
+                    "name": "Lavapiatti",
+                    "description": "Non devi più pagare 1 corona quando prendi un dado di valore 6; inoltre puoi aggiungere 1 alla forza di questa azione. Come di consueto, è possibile potenziarne ulteriormente la forza pagando 1 corona. Solo per conoscenza, abbiamo aumentato da 3 a 5 corone il costo di questa carta rispetto alle precedenti edizioni"
+                },
+                {
+                    "id": "18",
+                    "name": "Guardarobiera",
+                    "description": "Ogni volta che prendi un dado di valore 5 puoi aggiungere 2 alla forza di questa azione. In altre parole, state ottenendo uno sconto aggiuntivo di 2 corone."
+                },
+                {
+                    "id": "19",
+                    "name": "Architetto d'Interni",
+                    "description": "Ogni volta che prendi un dado di valore 3 ottieni immediatamente 5 PV"
+                },
+                {
+                    "id": "20",
+                    "name": "Investigatore",
+                    "description": "Ogni volta che prendi un dado di valore 5, prima o dopo aver effettuato l'azione principale, puoi anche avanzare di 2 caselle sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "21",
+                    "name": "Cuoco",
+                    "description": "Ottieni immediatamente (e solo una volta) 1 strudel, 1 torta, 1 vino e 1 caffè"
+                },
+                {
+                    "id": "22",
+                    "name": "Responsabile dello Staff",
+                    "description": "Ogni volta che prendi un dado di valore 3, prima o dopo aver effettuato l'azione principale,puoi anche giocare 1 carta staff dalla mano pagandone il costo. Non potete effettuare azioni aggiuntive tra l'azione principale e la giocata della carta staff"
+                },
+                {
+                    "id": "23",
+                    "name": "Custode",
+                    "description": "Ogni volta che occupi una camera (in qualsiasi modo) ricevi 1 corona"
+                },
+                {
+                    "id": "24",
+                    "name": "Responsabile di Sala",
+                    "description": "D'ora in poi, non paghi per spostare cibi e/o bevande dalla tua cucina ai tuoi ospiti"
+                },
+                {
+                    "id": "25",
+                    "name": "Fattorino",
+                    "description": "D'ora in poi, non paghi per prendere gli ospiti dalla coda. Questo effetto non fornisce un ospite, ne rimuove solo il costo"
+                },
+                {
+                    "id": "26",
+                    "name": "Responsabile Congressi",
+                    "description": "D'ora in poi, puoi pagare 1 corona per ignorare la penalità durante i conteggi dell'Imperatore"
+                },
+                {
+                    "id": "27",
+                    "name": "Responsabile Prenotazioni",
+                    "description": "Durante il conteggio finale, ottieni 3 PV aggiuntivi per ogni camera rossa occupata nel tuo hotel"
+                },
+                {
+                    "id": "28",
+                    "name": "Portiere",
+                    "description": "Durante il conteggio finale, ottieni 3 PV aggiuntivi per ogni camera blu occupata nel tuo hotel"
+                },
+                {
+                    "id": "29",
+                    "name": "Segretaria",
+                    "description": "Durante il conteggio finale, seleziona 1 carta staff in gioco di un avversario che abbia il simbolo e applica i suoi effetti al tuo hotel. Non potete usare questo effetto per copiare una vostra carta staff. Se nessun avversario ha in gioco carte staff col simbolo, la Segretaria non fornisce punti"
+                },
+                {
+                    "id": "30",
+                    "name": "Addetto all'Accoglienza",
+                    "description": "Durante il conteggio finale, ottieni 3 PV aggiuntivi per ogni camera gialla occupata nel tuo hotel"
+                },
+                {
+                    "id": "31",
+                    "name": "Cameriera ai Piani",
+                    "description": "Durante il conteggio finale, ottieni 1 PV aggiuntivo per ogni camera occupata nel tuo hotel, a prescindere dal colore"
+                },
+                {
+                    "id": "32",
+                    "name": "Vicedirettore",
+                    "description": "Durante il conteggio finale, ottieni 2 PV per ogni carta staff che hai giocato, a prescindere dal tipo (inclusa questa)"
+                },
+                {
+                    "id": "33",
+                    "name": "Uomo delle Pulizie",
+                    "description": "Ogni volta che ricevi la ricompensa per aver completato l'ordine di un ospite che richiede 4 o più cibi e/o bevande, ottieni 4 PV aggiuntivi"
+                },
+                {
+                    "id": "34",
+                    "name": "Addetto al Ricevimento",
+                    "description": "Durante il conteggio finale, ottieni 1 PV (aggiuntivo) per ogni camera nel tuo hotel, a prescindere dal colore e dal lato a faccia in su"
+                },
+                {
+                    "id": "35",
+                    "name": "Paggio",
+                    "description": "Occupa immediatamente (e solo una volta) fino a 2 camere (di qualsiasi colore) nel tuo hotel, girandole sul lato occupata"
+                },
+                {
+                    "id": "36",
+                    "name": "Sommelier",
+                    "description": "Ottieni immediatamente (e solo una volta) 4 vini"
+                },
+                {
+                    "id": "37",
+                    "name": "Servizio in Camera",
+                    "description": "Durante il conteggio finale, ottieni 2 PV per ogni gruppo di camere (di qualsiasi colore) completamente occupato nel tuo hotel"
+                },
+                {
+                    "id": "38",
+                    "name": "Facchino",
+                    "description": "Completa immediatamente (e solo una volta) l'ordine di un ospite prendendo i cibi e/o le bevande richiesti dalla riserva"
+                },
+                {
+                    "id": "39",
+                    "name": "Pasticciere",
+                    "description": "Ottieni immediatamente (e solo una volta) 4 torte"
+                },
+                {
+                    "id": "40",
+                    "name": "Direttore Marketing",
+                    "description": "Durante il conteggio finale, ottieni 5 PV per ogni carta obiettivo su cui hai collocato un tuo indicatore"
+                },
+                {
+                    "id": "41",
+                    "name": "Centralinista",
+                    "description": "Durante il conteggio finale, ottieni un numero di PV pari al doppio della tua posizione sul tracciato dell'Imperatore. Ricordate di indietreggiare di 7 caselle dopo il conteggio dell'Imperatore finale; pertanto, di solito otterrete al massimo 12 PV dalla Centralinista. Tuttavia, con le giuste condizioni potete ottenere più di 12 PV. Nelle precedenti edizioni non era consentito, adesso si"
+                },
+                {
+                    "id": "42",
+                    "name": "Giardiniere",
+                    "description": "Ogni volta che ricevi la ricompensa durante i conteggi dell'Imperatore ottieni 5 PV"
+                },
+                {
+                    "id": "43",
+                    "name": "Barista",
+                    "description": "Ottieni immediatamente (e solo una volta) 4 caffè"
+                },
+                {
+                    "id": "44",
+                    "name": "Addetta alla Dispensa",
+                    "description": "Ottieni immediatamente (e solo una volta) 4 strudel"
+                },
+                {
+                    "id": "45",
+                    "name": "Bagnino",
+                    "description": "Avanza immediatamente (e solo una volta) di 3 caselle sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "46",
+                    "name": "Donna delle Pulizie",
+                    "description": "Durante il conteggio finale, ottieni 5 PV per ogni piano nel tuo hotel con tutte le camere occupate"
+                },
+                {
+                    "id": "47",
+                    "name": "Ascensorista",
+                    "description": "Durante il conteggio finale, ottieni 5 PV per ogni colonna nel tuo hotel con tutte le camere occupate"
+                },
+                {
+                    "id": "48",
+                    "name": "Direttore",
+                    "description": "Durante il conteggio finale, ottieni 4 PV per ogni set formato da 1 camera rossa, 1 blu e 1 gialla occupate nel tuo hotel. In altre parole, ottenete 4 PV per ogni camera occupata del colore di cui ne avete di meno"
+                },
+                {
+                    "id": "49",
+                    "name": "Scultore",
+                    "description": "Puoi preparare 1 camera (di qualsiasi colore) senza pagarne il costo; devi scegliere una camera nei due piani più in basso della tua plancia hotel. Se i due piani più in basso sono già pieni di camere, temo non otterrete nulla da questo effetto"
+                },
+                {
+                    "id": "50",
+                    "name": "Musicista",
+                    "description": "Pesca 1 carta staff dal mazzo e aggiungila alla tua mano. Inoltre, puoi preparare 1 camera (di qualsiasi colore) pagando il normale costo"
+                },
+                {
+                    "id": "51",
+                    "name": "Compositore",
+                    "description": "Ricevi 1 strudel"
+                },
+                {
+                    "id": "52",
+                    "name": "Sarto",
+                    "description": "Ricevi 1 strudel e 2 corone"
+                },
+                {
+                    "id": "53",
+                    "name": "Ballerina di Flamenco",
+                    "description": "Ricevi 1 caffè e puoi avanzare di 2 caselle sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "54",
+                    "name": "Ritrattista",
+                    "description": "Ricevi 1 cibo o 1 bevanda a tua scelta e 2 corone"
+                },
+                {
+                    "id": "55",
+                    "name": "Fotografo",
+                    "description": "Pesca 2 carte staff dal mazzo e aggiungile alla tua mano"
+                },
+                {
+                    "id": "56",
+                    "name": "Cantante",
+                    "description": "Ricevi 1 torta. Inoltre, puoi giocare 1 carta staff dalla mano pagando fino a 3 corone in meno"
+                },
+                {
+                    "id": "57",
+                    "name": "Architetto",
+                    "description": "Puoi preparare fino a 2 camere (di qualsiasi colore) pagando ognuna 1 corona in meno"
+                },
+                {
+                    "id": "58",
+                    "name": "Attrice",
+                    "description": "Puoi occupare 1 camera aggiuntiva (di qualsiasi colore) girandola sul lato occupata. L'Attrice potrà usare una camera aggiuntiva per il suo staff"
+                },
+                {
+                    "id": "59",
+                    "name": "Poeta",
+                    "description": "Ricevi 1 torta. Inoltre, puoi giocare 1 carta staff dalla mano pagando fino a 2 corone in meno"
+                },
+                {
+                    "id": "60",
+                    "name": "Orafo",
+                    "description": "Ricevi 1 caffè e 3 corone"
+                },
+                {
+                    "id": "61",
+                    "name": "Pittore",
+                    "description": "Puoi preparare fino a 2 camere: paga 1 corona in meno per la prima; se scegli di prepararne una seconda, devi pagare il normale costo"
+                },
+                {
+                    "id": "62",
+                    "name": "Cantante Lirica",
+                    "description": "Puoi prendere 1 ospite dalla coda senza pagarne il costo. Inoltre, puoi avanzare di 3 caselle sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "63",
+                    "name": "Dama",
+                    "description": "Puoi prendere 1 ospite dalla coda senza pagarne il costo"
+                },
+                {
+                    "id": "64",
+                    "name": "Duchessa",
+                    "description": "Puoi giocare 1 carta staff dalla mano pagando 1 corona in meno"
+                },
+                {
+                    "id": "65",
+                    "name": "Cavaliere dell'Impero",
+                    "description": "Nessun effetto. Almeno vale 3 PV"
+                },
+                {
+                    "id": "66",
+                    "name": "Langravia",
+                    "description": "Puoi giocare 1 carta staff dalla mano pagando 1 corona in meno. Inoltre, puoi preparare 1 camera (di qualsiasi colore) pagando il normale costo"
+                },
+                {
+                    "id": "67",
+                    "name": "Sovrano",
+                    "description": "Pesca 2 carte staff dal mazzo e aggiungile alla tua mano. Inoltre, puoi avanzare di 2 caselle sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "68",
+                    "name": "Principessa",
+                    "description": "Puoi avanzare di 3 caselle sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "69",
+                    "name": "Contessa",
+                    "description": "Ricevi 3 corone"
+                },
+                {
+                    "id": "70",
+                    "name": "Elettore",
+                    "description": "Puoi giocare 1 carta staff dalla mano pagando 1 corona in meno. Inoltre, puoi avanzare di 3 caselle sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "71",
+                    "name": "Barone",
+                    "description": "Puoi preparare 1 camera (di qualsiasi colore) senza pagarne il costo"
+                },
+                {
+                    "id": "72",
+                    "name": "Principe",
+                    "description": "Puoi occupare 1 camera aggiuntiva (di qualsiasi colore) girandola sul lato occupata. Il Principe potrà usare una camera aggiuntiva per il suo entourage"
+                },
+                {
+                    "id": "73",
+                    "name": "Conte",
+                    "description": "Puoi giocare fino a 2 carte staff dalla mano pagando ognuna 1 corona in meno"
+                },
+                {
+                    "id": "74",
+                    "name": "Viscote",
+                    "description": "Ricevi 1 corona"
+                },
+                {
+                    "id": "75",
+                    "name": "Baronessa",
+                    "description": "Pesca 3 carte staff dal mazzo e giocane 1 immediatamente pagando fino a 3 corone in meno. Rimetti le altre 2 in fondo al mazzo nell'ordine che preferisci. Se non potete permettervi alcuna delle 3 carte oppure se non sono di vostro gradimento, dovrete rimetterle tutte in fondo al mazzo"
+                },
+                {
+                    "id": "76",
+                    "name": "Duca",
+                    "description": "Pesca 3 carte staff dal mazzo e giocane 1 immediatamente senza pagarne il costo. Rimetti le altre 2 in fondo al mazzo nell'ordine che preferisci"
+                },
+                {
+                    "id": "77",
+                    "name": "Farmacista",
+                    "description": "Ricevi 1 corona"
+                },
+                {
+                    "id": "78",
+                    "name": "Consigliere Postale",
+                    "description": "Puoi prendere 1 ospite dalla coda senza pagarne il costo"
+                },
+                {
+                    "id": "79",
+                    "name": "Consigliere della Corona",
+                    "description": "Ricevi 1 corona e puoi avanzare di 1 casella sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "80",
+                    "name": "Professore Emerito",
+                    "description": "Puoi prendere 1 ospite dalla coda senza pagarne il costo"
+                },
+                {
+                    "id": "81",
+                    "name": "Generale",
+                    "description": "Ricevi 1 vino e 3 corone"
+                },
+                {
+                    "id": "82",
+                    "name": "Consigliere Anziano",
+                    "description": "Puoi occupare 1 camera aggiuntiva (di qualsiasi colore) girandola sul lato occupata. Il Consigliere Anziano potrà usare una camera aggiuntiva per il suo segretario"
+                },
+                {
+                    "id": "83",
+                    "name": "Consigliere del Commercio",
+                    "description": "Ricevi 5 corone"
+                },
+                {
+                    "id": "84",
+                    "name": "Consigliere di Corte",
+                    "description": "Ricevi 3 corone. Inoltre, puoi prendere 1 ospite dalla coda senza pagarne il costo"
+                },
+                {
+                    "id": "85",
+                    "name": "Maggiore",
+                    "description": "Ricevi 3 corone"
+                },
+                {
+                    "id": "86",
+                    "name": "Consigliere Veterinario",
+                    "description": "Puoi giocare 1 carta staff dalla mano pagando fino a 3 corone in meno"
+                },
+                {
+                    "id": "87",
+                    "name": "Consigliere Medico",
+                    "description": "Ricevi 3 corone. Inoltre, puoi prendere fino a 2 ospiti dalla coda senza pagarne il costo. Rifornisci la coda prima di prendere il secondo ospite"
+                },
+                {
+                    "id": "88",
+                    "name": "Procuratore",
+                    "description": "Puoi preparare fino a 2 camere (di qualsiasi colore) senza pagarne il costo"
+                },
+                {
+                    "id": "89",
+                    "name": "Lord Alto Commissario",
+                    "description": "Ricevi 4 corone"
+                },
+                {
+                    "id": "90",
+                    "name": "Assistente Legale Anziano",
+                    "description": "Ricevi 1 vino e 3 corone"
+                },
+                {
+                    "id": "91",
+                    "name": "Tezcatlipoca",
+                    "description": "Pesca 3 carte staff dal mazzo e aggiungile alla tua mano"
+                },
+                {
+                    "id": "92",
+                    "name": "Cap. Goldhaken",
+                    "description": "Ricevi 1 corona"
+                },
+                {
+                    "id": "93",
+                    "name": "Sig. Horsa",
+                    "description": "Puoi avanzare di 1 casella sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "94",
+                    "name": "M. Ingalls",
+                    "description": "Puoi giocare 1 carta staff dalla mano pagando 1 corona in meno"
+                },
+                {
+                    "id": "95",
+                    "name": "Sig. Boydell",
+                    "description": "Puoi avanzare di 2 caselle sul tracciato dell'Imperatore. Attenzione: questo ospite non consente di rimuovere le macerie dai binari. (Ah Ah.) Tutto lo staff deve rimanere in hotel durante la partita"
+                },
+                {
+                    "id": "96",
+                    "name": "Sig. Oundo",
+                    "description": "Puoi giocare 1 carta staff dalla mano pagando fino a 3 corone in meno"
+                },
+                {
+                    "id": "97",
+                    "name": "E. Gizia",
+                    "description": "Seleziona un'area azione con almeno 1 dado e risolvi l'azione normalmente, ma senza rimuovere un dado da quell'area. Non puoi potenziare questa azione. Le carte staff che forniscono bonus per aver preso uno specifico dado non possono essere usate, perché non stai prendendo un dado con questo effetto. Questo non è un turno bonus, ma parte del turno corrente, subito dopo aver mandato E. Gizia in una camera e dopo aver riscosso ogni altro beneficio da lui. Ciò non influenza in alcun modo l'azione principale, per la quale si prende normalmente un dado. Solo per conoscenza, abbiamo indebolito l'effetto rispetto alle precedenti edizioni, in cui avreste ottenuto un intero turno aggiuntivo."
+                },
+                {
+                    "id": "98",
+                    "name": "M. Polo",
+                    "description": "Ricevi 4 corone"
+                },
+                {
+                    "id": "99",
+                    "name": "Cramersopholus",
+                    "description": "Pesca 1 carta staff dal mazzo e aggiungila alla tua mano. Inoltre, puoi avanzare di 2 caselle sul tracciato dell'Imperatore"
+                },
+                {
+                    "id": "100",
+                    "name": "Contadino Franz",
+                    "description": "Puoi avanzare di 3 caselle sul tracciato dell'Imperatore. Inoltre, puoi occupare 1 camera aggiuntiva (di qualsiasi colore) girandola sul lato occupata. Il Contadino Franz e sua moglie potranno usare una camera aggiuntiva per i loro cinque figli."
+                },
+                {
+                    "id": "101",
+                    "name": "Fratello Uwe",
+                    "description": "Puoi avanzare di 3 caselle sul tracciato dell'Imperatore. Inoltre, puoi prendere 1 ospite dalla coda senza pagarne il costo"
+                },
+                {
+                    "id": "102",
+                    "name": "Conducente",
+                    "description": "Puoi avanzare di 1 casella sul tracciato dell'Imperatore. Inoltre, puoi occupare 1 camera aggiuntiva (di qualsiasi colore) girandola sul lato occupata. Il Conducente potrà usare una camera aggiuntiva per il suo collega."
+                },
+                {
+                    "id": "103",
+                    "name": "Durgoing",
+                    "description": "Pesca 2 carte staff dal mazzo e aggiungile alla tua mano"
+                },
+                {
+                    "id": "104",
+                    "name": "MacLeod",
+                    "description": "Puoi giocare 1 carta staff dalla mano senza pagarne il costo"
+                },
+                {
+                    "id": "105",
+                    "name": "A",
+                    "description": "Hai 20 corone"
+                },
+                {
+                    "id": "106",
+                    "name": "A",
+                    "description": "Il tuo indicatore ha raggiunto o superato la casella 10 del tracciato dell'Imperatore"
+                },
+                {
+                    "id": "107",
+                    "name": "A",
+                    "description": "Hai giocato almeno 6 carte staff (di qualsiasi tipo)"
+                },
+                {
+                    "id": "108",
+                    "name": "A",
+                    "description": "Ci sono almeno 12 tessere camera (di qualsiasi colore) sulla tua plancia hotel, non importa se libere o occupate"
+                },
+                {
+                    "id": "109",
+                    "name": "B",
+                    "description": "Almeno 2 piani (non necessariamente adiacenti) sono completamente occupati nel tuo hotel"
+                },
+                {
+                    "id": "110",
+                    "name": "B",
+                    "description": "Almeno 2 colonne (non necessariamente adiacenti) sono completamente occupate nel tuo hotel"
+                },
+                {
+                    "id": "111",
+                    "name": "B",
+                    "description": "Almeno 6 gruppi di camere (di qualsiasi colore, non necessariamente contigui) sono completamente occupati nel tuo hotel"
+                },
+                {
+                    "id": "112",
+                    "name": "B",
+                    "description": "Tutte le camere di almeno un colore sono occupate nel tuo hotel"
+                },
+                {
+                    "id": "113",
+                    "name": "C",
+                    "description": "Almeno 3 camere rosse, almeno 3 blu e almeno 3 gialle sono occupate nel tuo hotel"
+                },
+                {
+                    "id": "114",
+                    "name": "C",
+                    "description": "Almeno 4 camere rosse e almeno 3 gialle sono occupate nel tuo hotel"
+                },
+                {
+                    "id": "115",
+                    "name": "C",
+                    "description": "Almeno 4 camere gialle e almeno 3 blu sono occupate nel tuo hotel"
+                },
+                {
+                    "id": "116",
+                    "name": "C",
+                    "description": "Almeno 4 camere blu e almeno 3 rosse sono occupate nel tuo hotel"
+                },
+                {
+                    "id": "117",
+                    "name": "Mag. Ferdinand",
+                    "description": "You can advanced 3 spacres on the Emperor track"
+                },
+                {
+                    "id": "118",
+                    "name": "Mr. Moras",
+                    "description": "You can take a guest from the queue at no cost"
+                },
+                {
+                    "id": "119",
+                    "name": "Dancing Master",
+                    "description": "Each time you take a die showing 3, before or after taking the main action you can also send a dancer to the ballroom by paying the normal cost. Additionally, you get 1 krone. You may not take any additional actions between the main action and sending the dancer"
+                },
+                {
+                    "id": "120",
+                    "name": "Violinist",
+                    "description": "Immediately (and only once), you get 3 champagne"
+                },
+                {
+                    "id": "121",
+                    "name": "Concertmaster",
+                    "description": "Each time you take a die showing 1, after performing the action as normal, you get 1 champagne and score 1 VP. The additional champagne has no impact on the minimum quantities of strudel and cake"
+                },
+                {
+                    "id": "122",
+                    "name": "Symphonist",
+                    "description": "Once per round, you can spend exactly 1 champagne from your kitchen to score 5 VP"
+                },
+                {
+                    "id": "123",
+                    "name": "Usherette",
+                    "description": "Once per round, you can spend exactly 2 krones to get 1 champagne and score 3 VP"
+                },
+                {
+                    "id": "124",
+                    "name": "Conductor",
+                    "description": "Each time you take a die showing 4, you also get 1 champagne and 1 krone"
+                },
+                {
+                    "id": "125",
+                    "name": "Choirmaster",
+                    "description": "Each time you take a die showing 5, before or after taking the main action, you can also send a dancer to a ballrom, paying 1 champagne less. You may not take any additional actions between the main action and sending the dancer"
+                },
+                {
+                    "id": "126",
+                    "name": "Leading Dancer",
+                    "description": "During final scoring, score 2 VP for each dancer you have in all ballroom (including the balcony)"
+                },
+                {
+                    "id": "127",
+                    "name": "Harpist",
+                    "description": "Immedaiately (and only once) send up to 2 dancers to the same or different ballrooms, paying up to 2 champagne less for the first and 1 champagne less for the second. You may not take any additional actions in-between"
+                },
+                {
+                    "id": "128",
+                    "name": "Cellist",
+                    "description": "Once per round, you can spend exactly 1 dish or drink from your kitchen to send a dancer to a ballroom for 1 champagne less"
+                },
+                {
+                    "id": "129",
+                    "name": "Pianist",
+                    "description": "Once per round, you can use this card to get 1 champagne"
+                },
+                {
+                    "id": "130",
+                    "name": "Ballet Master",
+                    "description": "Each time you send a dancer to a ballroom, you also get 1 krone and you can draw 1 staff card from the deck"
+                },
+                {
+                    "id": "131",
+                    "name": "Trumpeter",
+                    "description": "Each time you take a die showing 2, after performing the action as normal, you get 1 champagne and you can draw 1 staff card from the deck. The additional champagne has no impact on the minimum quantities of strudel and cake"
+                },
+                {
+                    "id": "132",
+                    "name": "Arranger",
+                    "description": "Each time you place a marker on an objective card, you also get 2 champagne"
+                },
+                {
+                    "id": "133",
+                    "name": "Danube Steamship Captain",
+                    "description": "Once per round, after you play a staff card (except this one), you can send a dancer to a ballroom, paying 1 champagne less. You may not take any additional actions between the main action and sending the dancer"
+                },
+                {
+                    "id": "134",
+                    "name": "Debutante",
+                    "description": "You get 1 champagne"
+                },
+                {
+                    "id": "135",
+                    "name": "Lady Companion",
+                    "description": "You can advance 1 space on the Emperor track. Additionally, you can play a staff card from hand at no cost"
+                },
+                {
+                    "id": "136",
+                    "name": "Governess",
+                    "description": "You get 1 champagne"
+                },
+                {
+                    "id": "137",
+                    "name": "Prima Ballerina",
+                    "description": "You get 2 krones. Additionally, you can spend up to two dancers to the same or different ballrooms by paying the normal cost"
+                },
+                {
+                    "id": "138",
+                    "name": "Mannequin",
+                    "description": "You get 1 champagne. Additionally, you can play a stafff card from hand for up to 3 krones less"
+                },
+                {
+                    "id": "139",
+                    "name": "Diva",
+                    "description": "You get 2 champagne"
+                },
+                {
+                    "id": "140",
+                    "name": "Waltz Queen",
+                    "description": "No effect"
+                },
+                {
+                    "id": "141",
+                    "name": "Khan",
+                    "description": "You get 1 champagne"
+                },
+                {
+                    "id": "142",
+                    "name": "Tenno",
+                    "description": "You get 1 champagne. Additionally, you can prepare one room (of any color) for 1 krone less"
+                },
+                {
+                    "id": "143",
+                    "name": "Laird",
+                    "description": "You get 2 dishes and/or drinks of your choice (no champagne) . You can mix and match, e.g. take one cake and one coffee"
+                },
+                {
+                    "id": "144",
+                    "name": "Maharani",
+                    "description": "You get 1 champagne"
+                },
+                {
+                    "id": "145",
+                    "name": "Marquis",
+                    "description": "You get 2 champagne"
+                },
+                {
+                    "id": "146",
+                    "name": "Contesa",
+                    "description": "No effect. But she is worth 15 VP!"
+                },
+                {
+                    "id": "147",
+                    "name": "Tsarina",
+                    "description": "You can send a dancer to the ballroom for 1 champagne less. The Tsarina can book a room or go dancing; in either case, her spouse definitely goes dancing"
+                },
+                {
+                    "id": "148",
+                    "name": "Ambassador",
+                    "description": "You can send a dancer to a ballroom for the normal cost. The Ambassador can book a room or go dancing; in either case, her assistant definitely goes dancing"
+                },
+                {
+                    "id": "149",
+                    "name": "Abbess",
+                    "description": "You get 5 krones"
+                },
+                {
+                    "id": "150",
+                    "name": "Consigliere ",
+                    "description": "You get 1 champagne and 2 krones"
+                },
+                {
+                    "id": "151",
+                    "name": "Admiral Winterbottom",
+                    "description": "You can advance 2 spaces on the Emperor track. Additionally, you can send a dancer to a ballroom by paying the normal cost. The Admiral can book a room or go dancing; in either case, his lieutenant definitely goes dancing"
+                },
+                {
+                    "id": "152",
+                    "name": "Impresario",
+                    "description": "You get 1 champagne"
+                },
+                {
+                    "id": "153",
+                    "name": "Cardinal ",
+                    "description": "No effect. But he is worth 14 VP!"
+                },
+                {
+                    "id": "154",
+                    "name": "Mayor",
+                    "description": "You get 2 champagne. Additionally, you can send a dancer to a ballroom by paying the normal cost. The Mayor can book a room or go dancing; in either case, his secretary definitely goes dancing"
+                },
+                {
+                    "id": "155",
+                    "name": "The Beast",
+                    "description": "You get 1 champagne. Additionally, you can prepare one room (of any color) by paying the normal cost. Note that you lose 1 VP for the Beast"
+                },
+                {
+                    "id": "156",
+                    "name": "Kapellmeister Palfy",
+                    "description": "You get 2 champagne"
+                },
+                {
+                    "id": "157",
+                    "name": "C. Inderella",
+                    "description": "You can send a dancer to a ballroom by paying the normal cost. Additionally, you can occup a room (of any color) by turning it to the occupied side. C. Inderella can book a room or go dancing; in either case, one fo her friends definitely goes dancing - the other goes to bed"
+                },
+                {
+                    "id": "158",
+                    "name": "Phantom",
+                    "description": "You get 1 champagne. Additionally, you can take a guest from the queue at no cost. Note that you lose 2 VP for the Phantom"
+                },
+                {
+                    "id": "159",
+                    "name": "The Beauty",
+                    "description": "You can send a dancer to a ballroom by paying the normal cost. Additionally, draw 3 staff cards from the deck and play one of them immediately, paying up to 3 krones less. Return the other two cards to the bottom of the deck, in an order of your choice.. The Beauty can book a room or go dancing; in either case, her sister definitely goes dancing.\nIf all three cards are too expensive for you, or you don't want to play any of them, you must return all three to the bottom of the deck"
+                },
+                {
+                    "id": "160",
+                    "name": "Medium",
+                    "description": "You get 2 dishes and/or drinks of your choice (no champagne). Additionally, you get 1 champagne. You can mix and match, e.g. take one cake and one coffee. And you get a champagne on top!"
+                },
+                {
+                    "id": "161",
+                    "name": "Partyer",
+                    "description": "You can send a dancer to a ballroom for up to 2 champagne less. The Partyer can book a room or go dancing; in either case his plus one definitely goes dancing"
+                },
+                {
+                    "id": "162",
+                    "name": "Pope",
+                    "description": "The Pope must move into a room; he cannot be sent to a ballroom. In return, you can occupy an additional room (of any color) by turning it to the occupied side. The Pope could use an additional room for his entourage"
+                },
+                {
+                    "id": "163",
+                    "name": "A",
+                    "description": "You have at least 7 champagne in your kitchen"
+                },
+                {
+                    "id": "164",
+                    "name": "B",
+                    "description": "You have at least 7 dancers across any number of ballrooms (including the balcony)"
+                },
+                {
+                    "id": "165",
+                    "name": "C",
+                    "description": "You have completed the orders of at least 4 green guests"
+                },
+                {
+                    "id": "166",
+                    "name": "Handmaid",
+                    "description": "After you advance 3 or more spaces on the Emperor track during an action, you can turn this card face down. If you do, you can immediately (and only once) prepare up to 2 rooms (of any colour) at no cost and immediately occupy them by turning them to the occupied side"
+                },
+                {
+                    "id": "167",
+                    "name": "Apprentice",
+                    "description": "After you complete a blue guest's order that required at least 3 items, you can turn this card face down. If you do, immediately (and only once) gain 3 strudel and 3 cake"
+                },
+                {
+                    "id": "168",
+                    "name": "Dishwasher",
+                    "description": "After you complete a red guest's order that required at least 3 items, you can turn this card face down. If you do, immediately (and only once) gain 3 wine and 3 coffee"
+                },
+                {
+                    "id": "169",
+                    "name": "Tapster",
+                    "description": "After you complete a yellow guest's order that required at least 3 items, you can turn this card face down. If you do, immediately (and only once) gain 6 krones"
+                },
+                {
+                    "id": "170",
+                    "name": "Coachwoman",
+                    "description": "Once per round, you can spend exactly 1 coffee from your kitchen. If you do so, score 3 VP and you can take a guest from the queue at no cost"
+                },
+                {
+                    "id": "171",
+                    "name": "Bookkeeper",
+                    "description": "Once per round, you can spend exactly 1 cake from your kitchen. If you do, you can prepare one room (of any colour), paying up to 2 krones less"
+                },
+                {
+                    "id": "172",
+                    "name": "Chef de Rang",
+                    "description": "After you get 3 or more drinks (wine and/or coffee) from an action, you can turn this card face down. If you do, immediately (and only once) advance 5 spaces on the Emperor track"
+                },
+                {
+                    "id": "173",
+                    "name": "Interpreter",
+                    "description": "Once per round, you can spend exactly 2 strudel from your kitchen to get 2 krones and score 2 VP"
+                },
+                {
+                    "id": "174",
+                    "name": "Bartender",
+                    "description": "After you get 3 or more dishes (strudel and/or cake) during an action, you can turn this card face down. If you do, you can immediately (and only once) take a guest from the queue at no cost and immediately fill their order by taking all of their required items from the supply"
+                },
+                {
+                    "id": "175",
+                    "name": "Wagon Master",
+                    "description": "Once per round, you can spend exactly 2 dishes and/or drinks (no champagne) from your kitchen to get 2 others dishes and/or drinks (different from those spent; no champagne) and score 2 VP"
+                },
+                {
+                    "id": "176",
+                    "name": "Dog Walker",
+                    "description": "Once per round, you can spend exactly 2 wine from your kitchen to score 2 VP and advance 2 spaces on the Emperor track"
+                },
+                {
+                    "id": "177",
+                    "name": "Hairdresser",
+                    "description": "Once per round, you can retreat exactly 2 spaces on the Emperor track to play a staff card from hand for up to 3 krones less"
+                },
+                {
+                    "id": "178",
+                    "name": "Janitor",
+                    "description": "After you fully occupy a group (of any colour) comprising of at least 3 rooms, you can turn this card face down. If you do, you can immediately (and only once) play up to 2 staff cards from hand at no cost"
+                },
+                {
+                    "id": "179",
+                    "name": "Entertainer",
+                    "description": "After you place a marker on an objective card, you can turn this card face down. If you do, you can immediately (and only once) fill up to two guests orders by taking the required items from the supply"
+                },
+                {
+                    "id": "180",
+                    "name": "A",
+                    "description": "You have at least 3 strudels, at least 3 cake, at least 3 wine and at least 3 coffee in your kitchen"
+                },
+                {
+                    "id": "181",
+                    "name": "B",
+                    "description": "At least 3 rooms (of any color) in the top floor of your hotel are occupied"
+                },
+                {
+                    "id": "182",
+                    "name": "C",
+                    "description": "You have completed orders of at least 5 guests who each ordered 3 or more items. To keep track do not discard the guests relevant to this objective, but keep them in a personal face-down pile, until you complete this objective. Only then place them in the discuard pile. \nWhen using module 3, as the Kaufman player, you will need to keep two separate piles: one collecting the guests whose order you completed this round and another one collecting the guests relevant to this objective. At the end of round, you score VP onl for the guests in the first pile, before moving any relevant guests to the second pile and discarding the rest."
+                },
+                {
+                    "id": "183",
+                    "name": "Manager's Son",
+                    "description": "Each time you spend at least 1 champagne during an action, you get 1 krone"
+                },
+                {
+                    "id": "184",
+                    "name": "E. Doolittle",
+                    "description": "Eliza must be sen to a ballroom; she cannot move into a room. In return, you can send an additional dancer that you must place on the same ballroom space as Eliza. You must pay the cost printed on the space only once (for Eliza only) and you get the row bonus only once.\nAfterwards, score 1 VP for each dancer token you have in a ballroom, including Eliza and the second dancer token on the same space. I could have danced all night..."
+                },
+                {
+                    "id": "185",
+                    "name": "M. Antoinette",
+                    "description": "Marie must move into a room. Additionally, you can send a dancer to a ballroom by paying 1 fewer champagne per other player in the game. In return, each other player gets 1 dish or drink of their choice (no champagne)\nIf you move Marie to her room in rounds 1-3, score 8 VP; in rounds 4-5 score 5 VP; in rounds 6-7, score 2 VP. Marie occupies a room and goes dancing anyway"
+                },
+                {
+                    "id": "186",
+                    "name": "Lord Mayor of London",
+                    "description": "Immediately score the current ballroom. It will be scored again as normal after the next Emperor scoring. Of couse, all players must participate in this additional scoring"
+                },
+                {
+                    "id": "187",
+                    "name": "J. Gatsby & D. Buchanan",
+                    "description": "Jay and Daisy must move into a room; they cannot be sent to a ballroom. In return, you can occupy an additional room (of any color) by turning it to the occupied side. Additionally, advance 4 spaces on the Emperor track. Please note that the cost is two of each depicted item. They prefer to stay in their rooms"
+                },
+                {
+                    "id": "188",
+                    "name": "Ms. Hildegard",
+                    "description": "Ms. Hildegard must move into a room; she cannot be sent to a ballroom"
+                },
+                {
+                    "id": "189",
+                    "name": "Dr. Hagedorn",
+                    "description": "Dr. Hagedorn cannot be sent to a ballroom, he must occupy two horizontally adjacent rooms (of the same or different colors). . Dr. Hageborn requires a double suite. If your hotel doesn't have oe, he'll wait at his table until you make one available"
+                },
+                {
+                    "id": "190",
+                    "name": "Mr. Schulze",
+                    "description": "Mr. Schulze can neither be sent to a ballroom nor occupy a room - he stays at his table indefinitely (which is why he has no cost). Instead, he is like a staff card (but is not considered one) that allows you, once per round, to spend any one item (dish, drink or champagne). If you do, you can immediately play a staff card from hand by paying its cost, score 1VP, and advance 1 space on the Emperor track. During final scoring, you do not lose 5 victory points for Mr. Schulze, even though he is still sitting in your café. "
+                },
+                {
+                    "id": "191",
+                    "name": "J. Kesselhut",
+                    "description": "Immediately fill the wine orders of your remaining guests with wine from the supply"
+                },
+                {
+                    "id": "192",
+                    "name": "Mrs. Kunkel",
+                    "description": "Mrs. Kunkel cannot be sent to a ballroom and she must occupy a room in the bottom floor. If you have no vacant rooms in the bottom floor left, ýou must make do with one fewer table for the rest of the game and, during final scoring suffer the negative 5 victory points for Mrs. Kunkel"
+                }
+            ]
+        },
+        {
+            "lang": "en",
+            "cards": [
+                {
+                    "id": "1",
+                    "name": "Breakfast Server",
+                    "description": "Once per round, you can use this card to get 1 strudel"
+                },
+                {
+                    "id": "2",
+                    "name": "Waitress",
+                    "description": "Once per round, you can use this card to get 1 cake"
+                },
+                {
+                    "id": "3",
+                    "name": "Barkeeper",
+                    "description": "Once per round, you can use this card to get 1 wine"
+                },
+                {
+                    "id": "4",
+                    "name": "Sous-Chef",
+                    "description": "Once per round, you can use this card to get 1 coffee"
+                },
+                {
+                    "id": "5",
+                    "name": "Groom",
+                    "description": "Each time you remove a red guest whose order you completed from your café, you get 2 krones"
+                },
+                {
+                    "id": "6",
+                    "name": "Stableman",
+                    "description": "Each time you remove a blue guest whose order you completed from your café, you can advance 1 space on the Emperor track"
+                },
+                {
+                    "id": "7",
+                    "name": "Masseuse",
+                    "description": "Each time you remove a yellow guest whose order you completed from your café, you get 1 krone"
+                },
+                {
+                    "id": "8",
+                    "name": "Tour Guide",
+                    "description": "Each time you remove a green guest whose order you completed from your café, you score 2 VP"
+                },
+                {
+                    "id": "9",
+                    "name": "Butler",
+                    "description": "From now on, whenever you prepare a blue room (from any action or effort), it is free to do so (ie pay 0 krones). This does not grant a free action, it merely removes the cost"
+                },
+                {
+                    "id": "10",
+                    "name": "Chauffeur",
+                    "description": "From now on, whenever you prepare a red room (from any action or effort), it is free to do so (ie pay 0 krones). This does not grant a free action, it merely removes the cost"
+                },
+                {
+                    "id": "11",
+                    "name": "Florist",
+                    "description": "From now on, whenever you prepare a yellow room (from any action or effort), it is free to do so (ie pay 0 krones). This does not grant a free action, it merely removes the cost"
+                },
+                {
+                    "id": "12",
+                    "name": "Executive Housekeeper",
+                    "description": "Each time you take a die showing 3 or 4, immediately score 2 VP"
+                },
+                {
+                    "id": "13",
+                    "name": "Restaurant Manager",
+                    "description": "Each time you take a die showing 1 or 2, you can add 1 to the strenght of that action. As always, you can boost this further by paying 1 krone"
+                },
+                {
+                    "id": "14",
+                    "name": "Decorator",
+                    "description": "Each time you take a die showing 1 or 2, before or after taking the main action, you can also prepare one room (of any color) by paying the normal cost. You may not take any additional actions between the main action and preparing that room"
+                },
+                {
+                    "id": "15",
+                    "name": "Bootblack",
+                    "description": "You no longer have to choose when taking a die showing 4: For each die on the action space, you get 1 krone and you can advance 1 space on the Emperor track.. As always, you can boost this further by paying 1 krone, for which you will also get 1 krone (back) and advance 1 space on the Emperor track, effectively gaining one space for free"
+                },
+                {
+                    "id": "16",
+                    "name": "Laundress",
+                    "description": "Each time you take a die showing 4, immediately score 4 VP"
+                },
+                {
+                    "id": "17",
+                    "name": "Kitchen Hand",
+                    "description": "You no longer have to pay 1 krone when taking a die showing a 6; additionally, you can add 1 to the strength of this action.. As always, you can boost this by paying 1 krone. FYI: we increased the cost of this card from 3 krones to 5 krones"
+                },
+                {
+                    "id": "18",
+                    "name": "Checker",
+                    "description": "Each time you take a die showing 5, you can add 2 to the strength of this action. In other words, you are getting an additional discount of 2 krones"
+                },
+                {
+                    "id": "19",
+                    "name": "Interior Architect",
+                    "description": "Each time you take a die showing 3, immediately score 5 VP"
+                },
+                {
+                    "id": "20",
+                    "name": "Detective",
+                    "description": "Each time you take a die showing 5, before or after taking the main action, you can also advance 2 spaces on the Emperor track. You may not take any additional actions between the main action and advancing on the Emperor track"
+                },
+                {
+                    "id": "21",
+                    "name": "Chef",
+                    "description": "Immediately (and only once) gain 1 strudel, 1 cake, 1 wine and 1 coffee"
+                },
+                {
+                    "id": "22",
+                    "name": "Staff Manager",
+                    "description": "Each time you take a die showing 3, before or after taking the main action you can also play a staff card from hand by paying its cost. You may not take any additional actions between the main action and playing the staff card"
+                },
+                {
+                    "id": "23",
+                    "name": "Custodian",
+                    "description": "Each time you occupy a room (by whichever means), you also get 1 krone"
+                },
+                {
+                    "id": "24",
+                    "name": "Chief Waiter",
+                    "description": "From now on, moving items from your kitchen onto your guests costs you nothing"
+                },
+                {
+                    "id": "25",
+                    "name": "Delivery Boy",
+                    "description": "From now on, taking guests from the queue costs you nothing. This does not provide a guest, it merely removes the cost"
+                },
+                {
+                    "id": "26",
+                    "name": "Conference Manager",
+                    "description": "From now on, you can pay 1 krone to ignore the penalty during an Emperor scoring"
+                },
+                {
+                    "id": "27",
+                    "name": "Booking manager",
+                    "description": "During final scoring, score an additonal 3 VP for each occupied red room in your hotel"
+                },
+                {
+                    "id": "28",
+                    "name": "Concierge",
+                    "description": "During final scoring, score an additonal 3 VP for each occupied blue room in your hotel"
+                },
+                {
+                    "id": "29",
+                    "name": "Secretary",
+                    "description": "During final scoring, select an opponent's staff card in play with the (End Game) symbol and apply its effect to your hotel. You may not use this to copy one of your staff. If none of you opponents have staff with the (End Game) symbol in play, the secretary scores nothing."
+                },
+                {
+                    "id": "30",
+                    "name": "Reception Clerk",
+                    "description": "During final scoring, score an additonal 3 VP for each occupied yellow room in your hotel"
+                },
+                {
+                    "id": "31",
+                    "name": "Chambermaid",
+                    "description": "During final scoring, score an additonal 1 VP for each occupied room in your hotel, regardless of color"
+                },
+                {
+                    "id": "32",
+                    "name": "Assistant Manager",
+                    "description": "During final scoring, score 2 VP for each staff card you have in play (regardless of type), including this"
+                },
+                {
+                    "id": "33",
+                    "name": "Male Floor Housekeeper",
+                    "description": "Each time you remove a red guest whose order you completed from your café, if the order required 4 (or more) items, score 4 VP"
+                },
+                {
+                    "id": "34",
+                    "name": "Receptionist",
+                    "description": "During final scoring, score (an additional) 1 VP for each room tile in your  hotel, regardless of color and which side is facing up"
+                },
+                {
+                    "id": "35",
+                    "name": "Page Boy",
+                    "description": "Immediately (and only once) occupy up to 2 rooms (of any color) in you hotel by turning them to the occupied side"
+                },
+                {
+                    "id": "36",
+                    "name": "Sommelier",
+                    "description": "Immediately (and only once) gain 4 wine"
+                },
+                {
+                    "id": "37",
+                    "name": "Room Service",
+                    "description": "During final scoring, score 2 VP for each fully occupied group of rooms (of any color) in your hotel"
+                },
+                {
+                    "id": "38",
+                    "name": "Porter",
+                    "description": "Immediately (and only once) fill a guest's order by taking the required items from the supply"
+                },
+                {
+                    "id": "39",
+                    "name": "Confectioner",
+                    "description": "Immediately (and only once) gain 4 cake"
+                },
+                {
+                    "id": "40",
+                    "name": "Marketing Director",
+                    "description": "During final scoring, score 5 VP for each objective card that has your marker on it"
+                },
+                {
+                    "id": "41",
+                    "name": "Operator",
+                    "description": "During final scoring, score a number of VP equal to double your position on the Emperor track. Remember, you lose 7 spaces after the final Emperor scoring; as such, you will usually score at most 12 VP from the Operator. Under the right conditions, though, you can get more than 12 VP from this. This wasn't allowed in earlier prints, but it is now"
+                },
+                {
+                    "id": "42",
+                    "name": "Gardener",
+                    "description": "Each time you get the reward during the Emperor scoring, in addition, score 5 VP"
+                },
+                {
+                    "id": "43",
+                    "name": "Barista",
+                    "description": "Immediately (and only once) gain 4 coffee"
+                },
+                {
+                    "id": "44",
+                    "name": "Larder Cook",
+                    "description": "Immediately (and only once) gain 4 strudel"
+                },
+                {
+                    "id": "45",
+                    "name": "Pool Attendant",
+                    "description": "Immediately (and only once) advance 3 spaces on the Emperor track"
+                },
+                {
+                    "id": "46",
+                    "name": "Female Floor Housekeeper",
+                    "description": "During final scoring, score 5 VP for each floor in your hotel that has all of its rooms occupied"
+                },
+                {
+                    "id": "47",
+                    "name": "Liftboy",
+                    "description": "During final scoring, score 5 VP for each column in your hotel that has all of its rooms occupied"
+                },
+                {
+                    "id": "48",
+                    "name": "Hotel Manager",
+                    "description": "During final scoring, score 4 VP for each set of occupied red, blue and yellow rooms that you have in your hotel. In other words, you get 4 VP for each occupied room of the color that you have the least of"
+                },
+                {
+                    "id": "49",
+                    "name": "Sculptor",
+                    "description": " You can prepare one room (of any color) at no cost; you must choose a room in the bottom two floors of your hotel board. If the bottom two floors are full of rooms already, you get nothing from this I'm afraid"
+                },
+                {
+                    "id": "50",
+                    "name": "Musician",
+                    "description": "Draw 1 staff card from the deck and add it to your hand. Additionally, you can prepare one room (of any color) by paying the normal cost"
+                },
+                {
+                    "id": "51",
+                    "name": "Composer",
+                    "description": "You get 1 strudel"
+                },
+                {
+                    "id": "52",
+                    "name": "Tailor",
+                    "description": "You get 1 strudel and 2 krones"
+                },
+                {
+                    "id": "53",
+                    "name": "Flamenco Dancer",
+                    "description": "You get 1 coffee and you can advance 2 spaces on the Emperor track"
+                },
+                {
+                    "id": "54",
+                    "name": "Portrait Painter",
+                    "description": "You get 1 dish or drink of your choice, and 2 krones"
+                },
+                {
+                    "id": "55",
+                    "name": "Photographer",
+                    "description": "Draw 2 staff cards from the deck and add them to your hand"
+                },
+                {
+                    "id": "56",
+                    "name": "Vocalist",
+                    "description": "You get 1 cake. Additionally, you can play a staff card from hand, paying up to 3 krones less"
+                },
+                {
+                    "id": "57",
+                    "name": "Architect",
+                    "description": "You can prepare up to two rooms (of any color), paying 1 krone less for each"
+                },
+                {
+                    "id": "58",
+                    "name": "Actress",
+                    "description": "You can occupy an additional room (of any color) by turning it to the occupied side. The actress could use an additional room for her staff"
+                },
+                {
+                    "id": "59",
+                    "name": "Poet",
+                    "description": "You get 1 cake. Additionally, you can play a staff card from hand, paying up to 2 krones less"
+                },
+                {
+                    "id": "60",
+                    "name": "Jewelry Designer",
+                    "description": "You get 1 coffee and 3 krones"
+                },
+                {
+                    "id": "61",
+                    "name": "Painter",
+                    "description": "You can prepare up to two rooms: Pay 1 krone less for one of them; if you choose to prepare a second, you must pay the normal cost"
+                },
+                {
+                    "id": "62",
+                    "name": "Opera Singer",
+                    "description": "You can take a guest from the queue at no cost. Additionally, you can advance 3 spaces on the Emperor track"
+                },
+                {
+                    "id": "63",
+                    "name": "Dame",
+                    "description": "You can take a guest from the queue at no cost"
+                },
+                {
+                    "id": "64",
+                    "name": "Duchess",
+                    "description": "You can play a staff card from hand, paying 1 krone less"
+                },
+                {
+                    "id": "65",
+                    "name": "Knight of the Empire",
+                    "description": "No effect. At least he is worth 3 VP"
+                },
+                {
+                    "id": "66",
+                    "name": "Landgrave",
+                    "description": "You can play a staff card from hand, paying 1 krone less- Additionally, you can prepare one room (of any color) by paying the normal cost"
+                },
+                {
+                    "id": "67",
+                    "name": "Sovereign",
+                    "description": "Draw 2 staff cards from the the deck and add them to your hand. Additionally, you can advance 2 spaces on the Emperor track"
+                },
+                {
+                    "id": "68",
+                    "name": "Princess",
+                    "description": "You can advance 3 spaces on the Emperor track"
+                },
+                {
+                    "id": "69",
+                    "name": "Countess",
+                    "description": "You get 3 krones"
+                },
+                {
+                    "id": "70",
+                    "name": "Elector",
+                    "description": "You can play a staff card from hand, paying 1 krone less. Additionally, you can advance 3 spaces on the Emperor track"
+                },
+                {
+                    "id": "71",
+                    "name": "Baron",
+                    "description": "You can prepare one room (of any color) at no cost"
+                },
+                {
+                    "id": "72",
+                    "name": "Prince",
+                    "description": "You can occupy an additional room (of any color) by turning it to the occupied side. The prince could use an additioanl room for his entourage"
+                },
+                {
+                    "id": "73",
+                    "name": "Countess",
+                    "description": "You can play up to two staff cards from hands, paying 1 krone less for each"
+                },
+                {
+                    "id": "74",
+                    "name": "Earl",
+                    "description": "You get 1 krone"
+                },
+                {
+                    "id": "75",
+                    "name": "Baroness",
+                    "description": "Draw 3 staff cards from the deck and play one of them immediately, paying up to 3 krones less. Return the other two cards to the bottom of the deck, in an order of your choice. If all three cards are too expensive for you, or you don't want to play any of them, you must return all three to the bottom of the deck"
+                },
+                {
+                    "id": "76",
+                    "name": "Duke",
+                    "description": "Draw 3 staff cards from the deck and immediately play one of them at no cost. Return the other two cards to the bottom of the deck, in an order of your choice"
+                },
+                {
+                    "id": "77",
+                    "name": "Apothecary",
+                    "description": "You get 1 krone"
+                },
+                {
+                    "id": "78",
+                    "name": "Post Councillor",
+                    "description": "You can take a guest from the queue at no cost"
+                },
+                {
+                    "id": "79",
+                    "name": "Privy Councillor",
+                    "description": "You get 1 krone and you can advance 1 space on the Emperor track"
+                },
+                {
+                    "id": "80",
+                    "name": "Professor Emeritus",
+                    "description": "You can take a guest from the queue at no cost"
+                },
+                {
+                    "id": "81",
+                    "name": "General",
+                    "description": "You get 1 wine and 3 krones"
+                },
+                {
+                    "id": "82",
+                    "name": "Senior Councillor",
+                    "description": "You can occupy an additional room (of any color) by turning it to the occupied side. The Senior Councillor could use an additional room for his secretary"
+                },
+                {
+                    "id": "83",
+                    "name": "Councillor of Commerce",
+                    "description": "You get 5 krones"
+                },
+                {
+                    "id": "84",
+                    "name": "Court Councillor",
+                    "description": "You get 3 krones. Additionally, you can take a guest from the queue at no cost"
+                },
+                {
+                    "id": "85",
+                    "name": "Major",
+                    "description": "You get 3 krones"
+                },
+                {
+                    "id": "86",
+                    "name": "Veterinary Councillor",
+                    "description": "You can play a staff card from hand, paying up to 3 krones less"
+                },
+                {
+                    "id": "87",
+                    "name": "Medicinal Councillor",
+                    "description": "You get 3 krones. Additionally, you can take up to two guest from the queue at no cost. Replenish the queue before taking the second guest"
+                },
+                {
+                    "id": "88",
+                    "name": "Procurator",
+                    "description": "You can prepare up to two rooms (of any color), both at no cost"
+                },
+                {
+                    "id": "89",
+                    "name": "Lord High Commissioner",
+                    "description": "You get 4 krones"
+                },
+                {
+                    "id": "90",
+                    "name": "Senior Legal Secretary",
+                    "description": "You get 1 wine and 3 krones"
+                },
+                {
+                    "id": "91",
+                    "name": "Tezcatlipoca",
+                    "description": "Draw 3 staff cards from the deck and add them to your hand"
+                },
+                {
+                    "id": "92",
+                    "name": "Capt. Goldhaken",
+                    "description": "You get 1 krone"
+                },
+                {
+                    "id": "93",
+                    "name": "Mr. Horsa",
+                    "description": "You can advance 1 space on the Emperor track"
+                },
+                {
+                    "id": "94",
+                    "name": "M. Ingalls",
+                    "description": "You can play a staff card from hand, paying 1 krone less"
+                },
+                {
+                    "id": "95",
+                    "name": "Mr. Boydell",
+                    "description": "You can advanced 2 spaces on the Emperor track. Please note: This does not allow you to clear rubble from the track - all staff must stay in the hotel during this game"
+                },
+                {
+                    "id": "96",
+                    "name": "Mr. Oundo",
+                    "description": "You can play a staff card from hand, paying up to 3 krones less"
+                },
+                {
+                    "id": "97",
+                    "name": "E. Gizia",
+                    "description": "Select an action space with at least one die and carry out the action as normal, but without taking a die from that space. You cannot boost this action. Staff cards providing benefits for taking a specific die cannot be used, because you are not taking a die with this.. This is not a bonus turn, but part of your current turn, right after sending E. Gizia to a room and collecting all other benefits from him. This does not affect your main action, for which you do take a die, in any way. For our information; We've weakended the effect from previous editions, in which you would get an additional turn"
+                },
+                {
+                    "id": "98",
+                    "name": "M. Polo",
+                    "description": "You get 4 krones"
+                },
+                {
+                    "id": "99",
+                    "name": "Cramersopholus",
+                    "description": "Draw 1 staff card from the deck and add it to your hand. Additionally, you can advance 2 spaces on the Emperor track"
+                },
+                {
+                    "id": "100",
+                    "name": "Farmer Franz",
+                    "description": "You can advance 3 spaces on the Emperor track. Additionally, you can occupy an additional room (of any color) by turning it to the occupied side. Farmer Franz and his spouse could use an additional room for their five children"
+                },
+                {
+                    "id": "101",
+                    "name": "Brother Uwe",
+                    "description": "You can advance 3 spaces on the Emperor track. Additionally, you can take a guest from the queue at no cost"
+                },
+                {
+                    "id": "102",
+                    "name": "Conductor",
+                    "description": "You can advance 1 space on the Emperor track. Additionally, you can occupy an additional room (of any color) by turning it to the occupied side.. The conductor could use an additional room for his colleague"
+                },
+                {
+                    "id": "103",
+                    "name": "Durgoing",
+                    "description": "Draw 2 staff cards from the deck and add them to your hand"
+                },
+                {
+                    "id": "104",
+                    "name": "MacLeod",
+                    "description": "You can play a staff card from hand at no cost"
+                },
+                {
+                    "id": "105",
+                    "name": "A",
+                    "description": "You have 20 krones"
+                },
+                {
+                    "id": "106",
+                    "name": "A",
+                    "description": "Your marker is on space 10 of the Emperor track or higher"
+                },
+                {
+                    "id": "107",
+                    "name": "A",
+                    "description": "You have played at least 6 staff cards (of any types)"
+                },
+                {
+                    "id": "108",
+                    "name": "A",
+                    "description": "There are at least 12 room tiles (of any color) on your hotel board. It does not matter whether they are vacant or occupied"
+                },
+                {
+                    "id": "109",
+                    "name": "B",
+                    "description": "At least 2 floors in your hotel are fully occupied. These floors need not be adjacent"
+                },
+                {
+                    "id": "110",
+                    "name": "B",
+                    "description": "At least 2 columns in your hotel are fully occupied. These columns need not be adjacent"
+                },
+                {
+                    "id": "111",
+                    "name": "B",
+                    "description": "At least 6 groups of rooms in your hotel (of any colors) are fully occupied. The groups need not be contiguous"
+                },
+                {
+                    "id": "112",
+                    "name": "B",
+                    "description": "All rooms of at least one color in your hotel are occupied"
+                },
+                {
+                    "id": "113",
+                    "name": "C",
+                    "description": "You have at least 3 red, at least 3 blue and at least 3 yellow occupied rooms in your hotel"
+                },
+                {
+                    "id": "114",
+                    "name": "C",
+                    "description": "You have at least 4 red and at least 3 yellow occupied rooms in your hotel"
+                },
+                {
+                    "id": "115",
+                    "name": "C",
+                    "description": "You have at least 4 yellow and at least 3 blue occupied rooms in your hotel"
+                },
+                {
+                    "id": "116",
+                    "name": "C",
+                    "description": "You have at least 4 blue and at least 3 red occupied rooms in your hotel"
+                },
+                {
+                    "id": "117",
+                    "name": "Mag. Ferdinand",
+                    "description": "You can advanced 3 spacres on the Emperor track"
+                },
+                {
+                    "id": "118",
+                    "name": "Mr. Moras",
+                    "description": "You can take a guest from the queue at no cost"
+                },
+                {
+                    "id": "119",
+                    "name": "Dancing Master",
+                    "description": "Each time you take a die showing 3, before or after taking the main action you can also send a dancer to the ballroom by paying the normal cost. Additionally, you get 1 krone. You may not take any additional actions between the main action and sending the dancer"
+                },
+                {
+                    "id": "120",
+                    "name": "Violinist",
+                    "description": "Immediately (and only once), you get 3 champagne"
+                },
+                {
+                    "id": "121",
+                    "name": "Concertmaster",
+                    "description": "Each time you take a die showing 1, after performing the action as normal, you get 1 champagne and score 1 VP. The additional champagne has no impact on the minimum quantities of strudel and cake"
+                },
+                {
+                    "id": "122",
+                    "name": "Symphonist",
+                    "description": "Once per round, you can spend exactly 1 champagne from your kitchen to score 5 VP"
+                },
+                {
+                    "id": "123",
+                    "name": "Usherette",
+                    "description": "Once per round, you can spend exactly 2 krones to get 1 champagne and score 3 VP"
+                },
+                {
+                    "id": "124",
+                    "name": "Conductor",
+                    "description": "Each time you take a die showing 4, you also get 1 champagne and 1 krone"
+                },
+                {
+                    "id": "125",
+                    "name": "Choirmaster",
+                    "description": "Each time you take a die showing 5, before or after taking the main action, you can also send a dancer to a ballrom, paying 1 champagne less. You may not take any additional actions between the main action and sending the dancer"
+                },
+                {
+                    "id": "126",
+                    "name": "Leading Dancer",
+                    "description": "During final scoring, score 2 VP for each dancer you have in all ballroom (including the balcony)"
+                },
+                {
+                    "id": "127",
+                    "name": "Harpist",
+                    "description": "Immedaiately (and only once) send up to 2 dancers to the same or different ballrooms, paying up to 2 champagne less for the first and 1 champagne less for the second. You may not take any additional actions in-between"
+                },
+                {
+                    "id": "128",
+                    "name": "Cellist",
+                    "description": "Once per round, you can spend exactly 1 dish or drink from your kitchen to send a dancer to a ballroom for 1 champagne less"
+                },
+                {
+                    "id": "129",
+                    "name": "Pianist",
+                    "description": "Once per round, you can use this card to get 1 champagne"
+                },
+                {
+                    "id": "130",
+                    "name": "Ballet Master",
+                    "description": "Each time you send a dancer to a ballroom, you also get 1 krone and you can draw 1 staff card from the deck"
+                },
+                {
+                    "id": "131",
+                    "name": "Trumpeter",
+                    "description": "Each time you take a die showing 2, after performing the action as normal, you get 1 champagne and you can draw 1 staff card from the deck. The additional champagne has no impact on the minimum quantities of strudel and cake"
+                },
+                {
+                    "id": "132",
+                    "name": "Arranger",
+                    "description": "Each time you place a marker on an objective card, you also get 2 champagne"
+                },
+                {
+                    "id": "133",
+                    "name": "Danube Steamship Captain",
+                    "description": "Once per round, after you play a staff card (except this one), you can send a dancer to a ballroom, paying 1 champagne less. You may not take any additional actions between the main action and sending the dancer"
+                },
+                {
+                    "id": "134",
+                    "name": "Debutante",
+                    "description": "You get 1 champagne"
+                },
+                {
+                    "id": "135",
+                    "name": "Lady Companion",
+                    "description": "You can advance 1 space on the Emperor track. Additionally, you can play a staff card from hand at no cost"
+                },
+                {
+                    "id": "136",
+                    "name": "Governess",
+                    "description": "You get 1 champagne"
+                },
+                {
+                    "id": "137",
+                    "name": "Prima Ballerina",
+                    "description": "You get 2 krones. Additionally, you can spend up to two dancers to the same or different ballrooms by paying the normal cost"
+                },
+                {
+                    "id": "138",
+                    "name": "Mannequin",
+                    "description": "You get 1 champagne. Additionally, you can play a stafff card from hand for up to 3 krones less"
+                },
+                {
+                    "id": "139",
+                    "name": "Diva",
+                    "description": "You get 2 champagne"
+                },
+                {
+                    "id": "140",
+                    "name": "Waltz Queen",
+                    "description": "No effect"
+                },
+                {
+                    "id": "141",
+                    "name": "Khan",
+                    "description": "You get 1 champagne"
+                },
+                {
+                    "id": "142",
+                    "name": "Tenno",
+                    "description": "You get 1 champagne. Additionally, you can prepare one room (of any color) for 1 krone less"
+                },
+                {
+                    "id": "143",
+                    "name": "Laird",
+                    "description": "You get 2 dishes and/or drinks of your choice (no champagne) . You can mix and match, e.g. take one cake and one coffee"
+                },
+                {
+                    "id": "144",
+                    "name": "Maharani",
+                    "description": "You get 1 champagne"
+                },
+                {
+                    "id": "145",
+                    "name": "Marquis",
+                    "description": "You get 2 champagne"
+                },
+                {
+                    "id": "146",
+                    "name": "Contesa",
+                    "description": "No effect. But she is worth 15 VP!"
+                },
+                {
+                    "id": "147",
+                    "name": "Tsarina",
+                    "description": "You can send a dancer to the ballroom for 1 champagne less. The Tsarina can book a room or go dancing; in either case, her spouse definitely goes dancing"
+                },
+                {
+                    "id": "148",
+                    "name": "Ambassador",
+                    "description": "You can send a dancer to a ballroom for the normal cost. The Ambassador can book a room or go dancing; in either case, her assistant definitely goes dancing"
+                },
+                {
+                    "id": "149",
+                    "name": "Abbess",
+                    "description": "You get 5 krones"
+                },
+                {
+                    "id": "150",
+                    "name": "Consigliere ",
+                    "description": "You get 1 champagne and 2 krones"
+                },
+                {
+                    "id": "151",
+                    "name": "Admiral Winterbottom",
+                    "description": "You can advance 2 spaces on the Emperor track. Additionally, you can send a dancer to a ballroom by paying the normal cost. The Admiral can book a room or go dancing; in either case, his lieutenant definitely goes dancing"
+                },
+                {
+                    "id": "152",
+                    "name": "Impresario",
+                    "description": "You get 1 champagne"
+                },
+                {
+                    "id": "153",
+                    "name": "Cardinal ",
+                    "description": "No effect. But he is worth 14 VP!"
+                },
+                {
+                    "id": "154",
+                    "name": "Mayor",
+                    "description": "You get 2 champagne. Additionally, you can send a dancer to a ballroom by paying the normal cost. The Mayor can book a room or go dancing; in either case, his secretary definitely goes dancing"
+                },
+                {
+                    "id": "155",
+                    "name": "The Beast",
+                    "description": "You get 1 champagne. Additionally, you can prepare one room (of any color) by paying the normal cost. Note that you lose 1 VP for the Beast"
+                },
+                {
+                    "id": "156",
+                    "name": "Kapellmeister Palfy",
+                    "description": "You get 2 champagne"
+                },
+                {
+                    "id": "157",
+                    "name": "C. Inderella",
+                    "description": "You can send a dancer to a ballroom by paying the normal cost. Additionally, you can occup a room (of any color) by turning it to the occupied side. C. Inderella can book a room or go dancing; in either case, one fo her friends definitely goes dancing - the other goes to bed"
+                },
+                {
+                    "id": "158",
+                    "name": "Phantom",
+                    "description": "You get 1 champagne. Additionally, you can take a guest from the queue at no cost. Note that you lose 2 VP for the Phantom"
+                },
+                {
+                    "id": "159",
+                    "name": "The Beauty",
+                    "description": "You can send a dancer to a ballroom by paying the normal cost. Additionally, draw 3 staff cards from the deck and play one of them immediately, paying up to 3 krones less. Return the other two cards to the bottom of the deck, in an order of your choice.. The Beauty can book a room or go dancing; in either case, her sister definitely goes dancing.\nIf all three cards are too expensive for you, or you don't want to play any of them, you must return all three to the bottom of the deck"
+                },
+                {
+                    "id": "160",
+                    "name": "Medium",
+                    "description": "You get 2 dishes and/or drinks of your choice (no champagne). Additionally, you get 1 champagne. You can mix and match, e.g. take one cake and one coffee. And you get a champagne on top!"
+                },
+                {
+                    "id": "161",
+                    "name": "Partyer",
+                    "description": "You can send a dancer to a ballroom for up to 2 champagne less. The Partyer can book a room or go dancing; in either case his plus one definitely goes dancing"
+                },
+                {
+                    "id": "162",
+                    "name": "Pope",
+                    "description": "The Pope must move into a room; he cannot be sent to a ballroom. In return, you can occupy an additional room (of any color) by turning it to the occupied side. The Pope could use an additional room for his entourage"
+                },
+                {
+                    "id": "163",
+                    "name": "A",
+                    "description": "You have at least 7 champagne in your kitchen"
+                },
+                {
+                    "id": "164",
+                    "name": "B",
+                    "description": "You have at least 7 dancers across any number of ballrooms (including the balcony)"
+                },
+                {
+                    "id": "165",
+                    "name": "C",
+                    "description": "You have completed the orders of at least 4 green guests"
+                },
+                {
+                    "id": "166",
+                    "name": "Handmaid",
+                    "description": "After you advance 3 or more spaces on the Emperor track during an action, you can turn this card face down. If you do, you can immediately (and only once) prepare up to 2 rooms (of any colour) at no cost and immediately occupy them by turning them to the occupied side"
+                },
+                {
+                    "id": "167",
+                    "name": "Apprentice",
+                    "description": "After you complete a blue guest's order that required at least 3 items, you can turn this card face down. If you do, immediately (and only once) gain 3 strudel and 3 cake"
+                },
+                {
+                    "id": "168",
+                    "name": "Dishwasher",
+                    "description": "After you complete a red guest's order that required at least 3 items, you can turn this card face down. If you do, immediately (and only once) gain 3 wine and 3 coffee"
+                },
+                {
+                    "id": "169",
+                    "name": "Tapster",
+                    "description": "After you complete a yellow guest's order that required at least 3 items, you can turn this card face down. If you do, immediately (and only once) gain 6 krones"
+                },
+                {
+                    "id": "170",
+                    "name": "Coachwoman",
+                    "description": "Once per round, you can spend exactly 1 coffee from your kitchen. If you do so, score 3 VP and you can take a guest from the queue at no cost"
+                },
+                {
+                    "id": "171",
+                    "name": "Bookkeeper",
+                    "description": "Once per round, you can spend exactly 1 cake from your kitchen. If you do, you can prepare one room (of any colour), paying up to 2 krones less"
+                },
+                {
+                    "id": "172",
+                    "name": "Chef de Rang",
+                    "description": "After you get 3 or more drinks (wine and/or coffee) from an action, you can turn this card face down. If you do, immediately (and only once) advance 5 spaces on the Emperor track"
+                },
+                {
+                    "id": "173",
+                    "name": "Interpreter",
+                    "description": "Once per round, you can spend exactly 2 strudel from your kitchen to get 2 krones and score 2 VP"
+                },
+                {
+                    "id": "174",
+                    "name": "Bartender",
+                    "description": "After you get 3 or more dishes (strudel and/or cake) during an action, you can turn this card face down. If you do, you can immediately (and only once) take a guest from the queue at no cost and immediately fill their order by taking all of their required items from the supply"
+                },
+                {
+                    "id": "175",
+                    "name": "Wagon Master",
+                    "description": "Once per round, you can spend exactly 2 dishes and/or drinks (no champagne) from your kitchen to get 2 others dishes and/or drinks (different from those spent; no champagne) and score 2 VP"
+                },
+                {
+                    "id": "176",
+                    "name": "Dog Walker",
+                    "description": "Once per round, you can spend exactly 2 wine from your kitchen to score 2 VP and advance 2 spaces on the Emperor track"
+                },
+                {
+                    "id": "177",
+                    "name": "Hairdresser",
+                    "description": "Once per round, you can retreat exactly 2 spaces on the Emperor track to play a staff card from hand for up to 3 krones less"
+                },
+                {
+                    "id": "178",
+                    "name": "Janitor",
+                    "description": "After you fully occupy a group (of any colour) comprising of at least 3 rooms, you can turn this card face down. If you do, you can immediately (and only once) play up to 2 staff cards from hand at no cost"
+                },
+                {
+                    "id": "179",
+                    "name": "Entertainer",
+                    "description": "After you place a marker on an objective card, you can turn this card face down. If you do, you can immediately (and only once) fill up to two guests orders by taking the required items from the supply"
+                },
+                {
+                    "id": "180",
+                    "name": "A",
+                    "description": "You have at least 3 strudels, at least 3 cake, at least 3 wine and at least 3 coffee in your kitchen"
+                },
+                {
+                    "id": "181",
+                    "name": "B",
+                    "description": "At least 3 rooms (of any color) in the top floor of your hotel are occupied"
+                },
+                {
+                    "id": "182",
+                    "name": "C",
+                    "description": "You have completed orders of at least 5 guests who each ordered 3 or more items. To keep track do not discard the guests relevant to this objective, but keep them in a personal face-down pile, until you complete this objective. Only then place them in the discuard pile. \nWhen using module 3, as the Kaufman player, you will need to keep two separate piles: one collecting the guests whose order you completed this round and another one collecting the guests relevant to this objective. At the end of round, you score VP onl for the guests in the first pile, before moving any relevant guests to the second pile and discarding the rest."
+                },
+                {
+                    "id": "183",
+                    "name": "Manager's Son",
+                    "description": "Each time you spend at least 1 champagne during an action, you get 1 krone"
+                },
+                {
+                    "id": "184",
+                    "name": "E. Doolittle",
+                    "description": "Eliza must be sen to a ballroom; she cannot move into a room. In return, you can send an additional dancer that you must place on the same ballroom space as Eliza. You must pay the cost printed on the space only once (for Eliza only) and you get the row bonus only once.\nAfterwards, score 1 VP for each dancer token you have in a ballroom, including Eliza and the second dancer token on the same space. I could have danced all night..."
+                },
+                {
+                    "id": "185",
+                    "name": "M. Antoinette",
+                    "description": "Marie must move into a room. Additionally, you can send a dancer to a ballroom by paying 1 fewer champagne per other player in the game. In return, each other player gets 1 dish or drink of their choice (no champagne)\nIf you move Marie to her room in rounds 1-3, score 8 VP; in rounds 4-5 score 5 VP; in rounds 6-7, score 2 VP. Marie occupies a room and goes dancing anyway"
+                },
+                {
+                    "id": "186",
+                    "name": "Lord Mayor of London",
+                    "description": "Immediately score the current ballroom. It will be scored again as normal after the next Emperor scoring. Of couse, all players must participate in this additional scoring"
+                },
+                {
+                    "id": "187",
+                    "name": "J. Gatsby & D. Buchanan",
+                    "description": "Jay and Daisy must move into a room; they cannot be sent to a ballroom. In return, you can occupy an additional room (of any color) by turning it to the occupied side. Additionally, advance 4 spaces on the Emperor track. Please note that the cost is two of each depicted item. They prefer to stay in their rooms"
+                },
+                {
+                    "id": "188",
+                    "name": "Ms. Hildegard",
+                    "description": "Ms. Hildegard must move into a room; she cannot be sent to a ballroom"
+                },
+                {
+                    "id": "189",
+                    "name": "Dr. Hagedorn",
+                    "description": "Dr. Hagedorn cannot be sent to a ballroom, he must occupy two horizontally adjacent rooms (of the same or different colors). . Dr. Hageborn requires a double suite. If your hotel doesn't have oe, he'll wait at his table until you make one available"
+                },
+                {
+                    "id": "190",
+                    "name": "Mr. Schulze",
+                    "description": "Mr. Schulze can neither be sent to a ballroom nor occupy a room - he stays at his table indefinitely (which is why he has no cost). Instead, he is like a staff card (but is not considered one) that allows you, once per round, to spend any one item (dish, drink or champagne). If you do, you can immediately play a staff card from hand by paying its cost, score 1VP, and advance 1 space on the Emperor track. During final scoring, you do not lose 5 victory points for Mr. Schulze, even though he is still sitting in your café. "
+                },
+                {
+                    "id": "191",
+                    "name": "J. Kesselhut",
+                    "description": "Immediately fill the wine orders of your remaining guests with wine from the supply"
+                },
+                {
+                    "id": "192",
+                    "name": "Mrs. Kunkel",
+                    "description": "Mrs. Kunkel cannot be sent to a ballroom and she must occupy a room in the bottom floor. If you have no vacant rooms in the bottom floor left, ýou must make do with one fewer table for the rest of the game and, during final scoring suffer the negative 5 victory points for Mrs. Kunkel"
+                }
+            ]
+        },
+        {
+            "lang": "es",
+            "cards": [
+                {
+                    "id": "1",
+                    "name": "Camarero de Desayuno",
+                    "description": "Una vez por ronda, puedes usar esta carta para obtener 1 strudel"
+                },
+                {
+                    "id": "2",
+                    "name": "Camarera",
+                    "description": "Una vez por ronda, puedes usar esta carta para obtener 1 pastel"
+                },
+                {
+                    "id": "3",
+                    "name": "Barman",
+                    "description": "Una vez por ronda, puedes usar esta carta para obtener 1 vino"
+                },
+                {
+                    "id": "4",
+                    "name": "Subchef",
+                    "description": "Una vez por ronda, puedes usar esta carta para obtener 1 café"
+                },
+                {
+                    "id": "5",
+                    "name": "Mozo",
+                    "description": "Cada vez que retires a un huésped rojo cuyo pedido completaste de tu café, obtienes 2 coronas"
+                },
+                {
+                    "id": "6",
+                    "name": "Mozo de Cuadra",
+                    "description": "Cada vez que retires a un huésped azul cuyo pedido completaste de tu café, puedes avanzar 1 espacio en la pista del Emperador"
+                },
+                {
+                    "id": "7",
+                    "name": "Masajista",
+                    "description": "Cada vez que retires a un huésped amarillo cuyo pedido completaste de tu café, obtienes 1 corona"
+                },
+                {
+                    "id": "8",
+                    "name": "Guía Turístico",
+                    "description": "Cada vez que retires a un huésped verde cuyo pedido completaste de tu café, obtienes 2 PV"
+                },
+                {
+                    "id": "9",
+                    "name": "Mayordomo",
+                    "description": "A partir de ahora, cada vez que prepares una habitación azul (de cualquier acción o esfuerzo), es gratis hacerlo (es decir, paga 0 coronas). Esto no otorga una acción gratuita, simplemente elimina el costo"
+                },
+                {
+                    "id": "10",
+                    "name": "Chófer",
+                    "description": "A partir de ahora, cada vez que prepares una habitación roja (de cualquier acción o esfuerzo), es gratis hacerlo (es decir, paga 0 coronas). Esto no otorga una acción gratuita, simplemente elimina el costo"
+                },
+                {
+                    "id": "11",
+                    "name": "Florista",
+                    "description": "A partir de ahora, cada vez que prepares una habitación amarilla (de cualquier acción o esfuerzo), es gratis hacerlo (es decir, paga 0 coronas). Esto no otorga una acción gratuita, simplemente elimina el costo"
+                },
+                {
+                    "id": "12",
+                    "name": "Encargada del servicio de habitaciones",
+                    "description": "Cada vez que tomes un dado que muestra 3 o 4, inmediatamente obtienes 2 PV"
+                },
+                {
+                    "id": "13",
+                    "name": "Encargado de Restaurante",
+                    "description": "Cada vez que tomes un dado que muestra 1 o 2, puedes aumentar 1 la fuerza de esa acción. Como siempre, puedes potenciar esto pagando 1 corona"
+                },
+                {
+                    "id": "14",
+                    "name": "Decorador",
+                    "description": "Cada vez que tomes un dado que muestra 1 o 2, antes o después de realizar la acción principal, también puedes preparar una habitación (de cualquier color) pagando el costo normal. No puedes realizar ninguna acción adicional entre la acción principal y la preparación de esa habitación"
+                },
+                {
+                    "id": "15",
+                    "name": "Limpiabotas",
+                    "description": "Ya no tienes que elegir al tomar un dado que muestra 4: Por cada dado en el espacio de acción, obtienes 1 corona y puedes avanzar 1 espacio en la pista del Emperador. Como siempre, puedes potenciar esto pagando 1 corona, por lo que también obtendrás 1 corona (de vuelta) y avanzarás 1 espacio en la pista del Emperador, ganando efectivamente un espacio gratis"
+                },
+                {
+                    "id": "16",
+                    "name": "Lavandera",
+                    "description": "Cada vez que tomes un dado que muestra 4, inmediatamente obtienes 4 PV"
+                },
+                {
+                    "id": "17",
+                    "name": "Ayudante de Cocina",
+                    "description": "Ya no tienes que pagar 1 corona al tomar un dado que muestra un 6; además, puedes aumentar en 1 la fuerza de esta acción. Como siempre, puedes potenciar esto pagando 1 corona. Para tu información: hemos aumentado el costo de esta carta de 3 coronas a 5 coronas"
+                },
+                {
+                    "id": "18",
+                    "name": "Inspector",
+                    "description": "Cada vez que tomes un dado que muestra 5, puedes añadir 2 a la fuerza de esta acción. En otras palabras, estás obteniendo un descuento adicional de 2 coronas"
+                },
+                {
+                    "id": "19",
+                    "name": "Arquitecto de Interiores",
+                    "description": "Cada vez que tomes un dado que muestra 3, inmediatamente obtienes 5 PV"
+                },
+                {
+                    "id": "20",
+                    "name": "Detective",
+                    "description": "Cada vez que tomes un dado que muestra 5, antes o después de realizar la acción principal, también puedes avanzar 2 espacios en la pista del Emperador. No puedes realizar ninguna acción adicional entre la acción principal y el avance en la pista del Emperador"
+                },
+                {
+                    "id": "21",
+                    "name": "Chef",
+                    "description": "Inmediatamente (y solo una vez) obtienes 1 strudel, 1 pastel, 1 vino y 1 café"
+                },
+                {
+                    "id": "22",
+                    "name": "Gerente de Personal",
+                    "description": "Cada vez que tomes un dado que muestra 3, antes o después de realizar la acción principal, también puedes jugar una carta de personal desde la mano pagando su costo. No puedes realizar ninguna acción adicional entre la acción principal y jugar la carta de personal"
+                },
+                {
+                    "id": "23",
+                    "name": "Conserje",
+                    "description": "Cada vez que ocupes una habitación (por cualquier medio), también obtienes 1 corona"
+                },
+                {
+                    "id": "24",
+                    "name": "Jefe de Meseros",
+                    "description": "A partir de ahora, mover artículos de tu cocina a tus invitados no te costará nada"
+                },
+                {
+                    "id": "25",
+                    "name": "Repartidor",
+                    "description": "A partir de ahora, tomar invitados de la fila no te costará nada. Esto no proporciona un invitado, solo elimina el costo"
+                },
+                {
+                    "id": "26",
+                    "name": "Gerente de Conferencias",
+                    "description": "A partir de ahora, puedes pagar 1 corona para ignorar la penalización durante una puntuación del Emperador"
+                },
+                {
+                    "id": "27",
+                    "name": "Gerente de Reservas",
+                    "description": "Durante la puntuación final, obtén 3 PV adicionales por cada habitación roja ocupada en tu hotel"
+                },
+                {
+                    "id": "28",
+                    "name": "Conserje",
+                    "description": "Durante la puntuación final, obtén 3 PV adicionales por cada habitación azul ocupada en tu hotel"
+                },
+                {
+                    "id": "29",
+                    "name": "Secretaria",
+                    "description": "Durante la puntuación final, selecciona una carta de personal en juego de un oponente con el símbolo (Fin del Juego) y aplica su efecto a tu hotel. No puedes usar esto para copiar una de tus propias cartas de personal. Si ninguno de tus oponentes tiene personal con el símbolo (Fin del Juego) en juego, la secretaria no obtiene nada"
+                },
+                {
+                    "id": "30",
+                    "name": "Recepcionista",
+                    "description": "Durante la puntuación final, obtén 3 PV adicionales por cada habitación amarilla ocupada en tu hotel"
+                },
+                {
+                    "id": "31",
+                    "name": "Camarera",
+                    "description": "Durante la puntuación final, obtén 1 PV adicional por cada habitación ocupada en tu hotel, sin importar el color"
+                },
+                {
+                    "id": "32",
+                    "name": "Asistente de Gerente",
+                    "description": "Durante la puntuación final, obtén 2 PV por cada carta de personal que tengas en juego (independientemente del tipo), incluyendo esta"
+                },
+                {
+                    "id": "33",
+                    "name": "Encargado de Piso",
+                    "description": "Cada vez que retires a un huésped rojo cuyo pedido completaste de tu café, si el pedido requería 4 (o más) artículos, obtén 4 PV"
+                },
+                {
+                    "id": "34",
+                    "name": "Recepcionista",
+                    "description": "Durante la puntuación final, obtén (un adicional) 1 PV por cada ficha de habitación en tu hotel, independientemente del color y del lado que esté hacia arriba"
+                },
+                {
+                    "id": "35",
+                    "name": "Botones",
+                    "description": "Inmediatamente (y solo una vez) ocupa hasta 2 habitaciones (de cualquier color) en tu hotel al girarlas al lado ocupado"
+                },
+                {
+                    "id": "36",
+                    "name": "Sommelier",
+                    "description": "Inmediatamente (y solo una vez) obtén 4 vinos"
+                },
+                {
+                    "id": "37",
+                    "name": "Servicio de Habitaciones",
+                    "description": "Durante la puntuación final, obtén 2 PV por cada grupo de habitaciones completamente ocupadas (de cualquier color) en tu hotel"
+                },
+                {
+                    "id": "38",
+                    "name": "Portero",
+                    "description": "Inmediatamente (y solo una vez) llena el pedido de un invitado tomando los artículos requeridos del suministro"
+                },
+                {
+                    "id": "39",
+                    "name": "Confitero",
+                    "description": "Inmediatamente (y solo una vez) obtén 4 pasteles"
+                },
+                {
+                    "id": "40",
+                    "name": "Director de Marketing",
+                    "description": "Durante la puntuación final, obtén 5 PV por cada carta de objetivo que tenga tu marcador"
+                },
+                {
+                    "id": "41",
+                    "name": "Operador",
+                    "description": "Durante la puntuación final, obtén un número de PV igual al doble de tu posición en la pista del Emperador. Recuerda, pierdes 7 espacios después de la puntuación final del Emperador; por lo tanto, normalmente obtendrás como máximo 12 PV del Operador. Bajo las condiciones adecuadas, sin embargo, puedes obtener más de 12 PV. Esto no estaba permitido en las primeras ediciones, pero ahora sí lo está"
+                },
+                {
+                    "id": "42",
+                    "name": "Jardinero",
+                    "description": "Cada vez que obtienes la recompensa durante la puntuación del Emperador, además, obtén 5 PV"
+                },
+                {
+                    "id": "43",
+                    "name": "Barista",
+                    "description": "Inmediatamente (y solo una vez) obtén 4 cafés"
+                },
+                {
+                    "id": "44",
+                    "name": "Cocinero de Almacén",
+                    "description": "Inmediatamente (y solo una vez) obtén 4 strudels"
+                },
+                {
+                    "id": "45",
+                    "name": "Encargado de la Piscina",
+                    "description": "Inmediatamente (y solo una vez) avanza 3 espacios en la pista del Emperador"
+                },
+                {
+                    "id": "46",
+                    "name": "Limiadora de planta",
+                    "description": "Durante la puntuación final, obtén 5 PV por cada piso en tu hotel que tenga todas sus habitaciones ocupadas"
+                },
+                {
+                    "id": "47",
+                    "name": "Ascensorista",
+                    "description": "Durante la puntuación final, obtén 5 PV por cada columna en tu hotel que tenga todas sus habitaciones ocupadas"
+                },
+                {
+                    "id": "48",
+                    "name": "Director del Hotel",
+                    "description": "Durante la puntuación final, obtén 4 PV por cada conjunto de habitaciones rojas, azules y amarillas ocupadas que tengas en tu hotel. En otras palabras, obtienes 4 PV por cada habitación ocupada del color que tengas menos"
+                },
+                {
+                    "id": "49",
+                    "name": "Escultor",
+                    "description": "Puedes preparar una habitación (de cualquier color) sin costo; debes elegir una habitación en los dos pisos inferiores de tu tablero de hotel. Si los dos pisos inferiores ya están llenos de habitaciones, no obtendrás nada con esto, lo siento"
+                },
+                {
+                    "id": "50",
+                    "name": "Músico",
+                    "description": "Roba 1 carta de personal del mazo y añádela a tu mano. Además, puedes preparar una habitación (de cualquier color) pagando el costo normal"
+                },
+                {
+                    "id": "51",
+                    "name": "Compositor",
+                    "description": "Obtienes 1 strudel"
+                },
+                {
+                    "id": "52",
+                    "name": "Sastre",
+                    "description": "Obtienes 1 strudel y 2 coronas"
+                },
+                {
+                    "id": "53",
+                    "name": "Bailarina",
+                    "description": "Obtienes 1 café y puedes avanzar 2 espacios en la pista del Emperador"
+                },
+                {
+                    "id": "54",
+                    "name": "Retratista",
+                    "description": "Obtienes 1 plato o bebida de tu elección y 2 coronas"
+                },
+                {
+                    "id": "55",
+                    "name": "Fotógrafo",
+                    "description": "Roba 2 cartas de personal del mazo y añádelas a tu mano"
+                },
+                {
+                    "id": "56",
+                    "name": "Vocalista",
+                    "description": "Obtienes 1 pastel. Además, puedes jugar una carta de personal desde la mano, pagando hasta 3 coronas menos"
+                },
+                {
+                    "id": "57",
+                    "name": "Arquitecto",
+                    "description": "Puedes preparar hasta dos habitaciones (de cualquier color), pagando 1 corona menos por cada una"
+                },
+                {
+                    "id": "58",
+                    "name": "Actriz",
+                    "description": "Puedes ocupar una habitación adicional (de cualquier color) girándola al lado ocupado. La actriz podría usar una habitación adicional para su personal"
+                },
+                {
+                    "id": "59",
+                    "name": "Poeta",
+                    "description": "Obtienes 1 pastel. Además, puedes jugar una carta de personal desde la mano, pagando hasta 2 coronas menos"
+                },
+                {
+                    "id": "60",
+                    "name": "Diseñador de Joyas",
+                    "description": "Obtienes 1 café y 3 coronas"
+                },
+                {
+                    "id": "61",
+                    "name": "Pintor",
+                    "description": "Puedes preparar hasta dos habitaciones: Paga 1 corona menos por una de ellas; si eliges preparar una segunda, debes pagar el costo normal"
+                },
+                {
+                    "id": "62",
+                    "name": "Cantante de Ópera",
+                    "description": "Puedes tomar un invitado de la fila sin costo. Además, puedes avanzar 3 espacios en la pista del Emperador"
+                },
+                {
+                    "id": "63",
+                    "name": "Dama",
+                    "description": "Puedes tomar un invitado de la fila sin costo"
+                },
+                {
+                    "id": "64",
+                    "name": "Duquesa",
+                    "description": "Puedes jugar una carta de personal desde la mano, pagando 1 corona menos"
+                },
+                {
+                    "id": "65",
+                    "name": "Caballero del Imperio",
+                    "description": "Sin efecto. Al menos vale 3 PV"
+                },
+                {
+                    "id": "66",
+                    "name": "Landgrave",
+                    "description": "Puedes jugar una carta de personal desde la mano, pagando 1 corona menos. Además, puedes preparar una habitación (de cualquier color) pagando el costo normal"
+                },
+                {
+                    "id": "67",
+                    "name": "Soberano",
+                    "description": "Roba 2 cartas de personal del mazo y añádelas a tu mano. Además, puedes avanzar 2 espacios en la pista del Emperador"
+                },
+                {
+                    "id": "68",
+                    "name": "Princesa",
+                    "description": "Puedes avanzar 3 espacios en la pista del Emperador"
+                },
+                {
+                    "id": "69",
+                    "name": "Condesa",
+                    "description": "Obtienes 3 coronas"
+                },
+                {
+                    "id": "70",
+                    "name": "Elector",
+                    "description": "Puedes jugar una carta de personal desde la mano, pagando 1 corona menos. Además, puedes avanzar 3 espacios en la pista del Emperador"
+                },
+                {
+                    "id": "71",
+                    "name": "Barón",
+                    "description": "Puedes preparar una habitación (de cualquier color) sin costo"
+                },
+                {
+                    "id": "72",
+                    "name": "Príncipe",
+                    "description": "Puedes ocupar una habitación adicional (de cualquier color) girándola al lado ocupado. El príncipe podría usar una habitación adicional para su séquito"
+                },
+                {
+                    "id": "73",
+                    "name": "Conde",
+                    "description": "Puedes jugar hasta dos cartas de personal desde la mano, pagando 1 corona menos por cada una"
+                },
+                {
+                    "id": "74",
+                    "name": "Earl",
+                    "description": "Obtienes 1 corona"
+                },
+                {
+                    "id": "75",
+                    "name": "Baronesa",
+                    "description": "Roba 3 cartas de personal del mazo y juega una de ellas de inmediato, pagando hasta 3 coronas menos. Devuelve las otras dos cartas al fondo del mazo, en el orden que prefieras. Si las tres cartas son demasiado caras para ti, o no deseas jugar ninguna de ellas, debes devolver las tres al fondo del mazo"
+                },
+                {
+                    "id": "76",
+                    "name": "Duque",
+                    "description": "Roba 3 cartas de personal del mazo y juega una de ellas de inmediato sin costo. Devuelve las otras dos cartas al fondo del mazo, en el orden que prefieras"
+                },
+                {
+                    "id": "77",
+                    "name": "Boticario",
+                    "description": "Obtienes 1 corona"
+                },
+                {
+                    "id": "78",
+                    "name": "Consejero de Correos",
+                    "description": "Puedes tomar un invitado de la fila sin costo"
+                },
+                {
+                    "id": "79",
+                    "name": "Consejero Privado",
+                    "description": "Obtienes 1 corona y puedes avanzar 1 espacio en la pista del Emperador"
+                },
+                {
+                    "id": "80",
+                    "name": "Profesor Emérito",
+                    "description": "Puedes tomar un invitado de la fila sin costo"
+                },
+                {
+                    "id": "81",
+                    "name": "General",
+                    "description": "Obtienes 1 vino y 3 coronas"
+                },
+                {
+                    "id": "82",
+                    "name": "Consejero Mayor",
+                    "description": "Puedes ocupar una habitación adicional (de cualquier color) girándola al lado ocupado. El Consejero Mayor podría usar una habitación adicional para su secretario"
+                },
+                {
+                    "id": "83",
+                    "name": "Consejero de Comercio",
+                    "description": "Obtienes 5 coronas"
+                },
+                {
+                    "id": "84",
+                    "name": "Consejero Judicial",
+                    "description": "Obtienes 3 coronas. Además, puedes tomar un invitado de la fila sin costo"
+                },
+                {
+                    "id": "85",
+                    "name": "Mayor",
+                    "description": "Obtienes 3 coronas"
+                },
+                {
+                    "id": "86",
+                    "name": "Consejero Veterinario",
+                    "description": "Puedes jugar una carta de personal desde la mano, pagando hasta 3 coronas menos"
+                },
+                {
+                    "id": "87",
+                    "name": "Consejero Médico",
+                    "description": "Obtienes 3 coronas. Además, puedes tomar hasta dos invitados de la fila sin costo. Reabastece la fila antes de tomar el segundo invitado"
+                },
+                {
+                    "id": "88",
+                    "name": "Procurador",
+                    "description": "Puedes preparar hasta dos habitaciones (de cualquier color), ambas sin costo"
+                },
+                {
+                    "id": "89",
+                    "name": "Alto Comisionado",
+                    "description": "Obtienes 4 coronas"
+                },
+                {
+                    "id": "90",
+                    "name": "Secretario Legal Senior",
+                    "description": "Obtienes 1 vino y 3 coronas"
+                },
+                {
+                    "id": "91",
+                    "name": "Tezcatlipoca",
+                    "description": "Roba 3 cartas de personal del mazo y añádelas a tu mano"
+                },
+                {
+                    "id": "92",
+                    "name": "Capitán Goldhaken",
+                    "description": "Obtienes 1 corona"
+                },
+                {
+                    "id": "93",
+                    "name": "Sr. Horsa",
+                    "description": "Puedes avanzar 1 espacio en la pista del Emperador"
+                },
+                {
+                    "id": "94",
+                    "name": "M. Ingalls",
+                    "description": "Puedes jugar una carta de personal desde la mano, pagando 1 corona menos"
+                },
+                {
+                    "id": "95",
+                    "name": "Sr. Boydell",
+                    "description": "Puedes avanzar 2 espacios en la pista del Emperador. Nota: Esto no te permite despejar escombros de la pista; todo el personal debe permanecer en el hotel durante este juego"
+                },
+                {
+                    "id": "96",
+                    "name": "Sr. Oundo",
+                    "description": "Puedes jugar una carta de personal desde la mano, pagando hasta 3 coronas menos"
+                },
+                {
+                    "id": "97",
+                    "name": "E. Gizia",
+                    "description": "Selecciona un espacio de acción con al menos un dado y realiza la acción como normalmente, pero sin tomar un dado de ese espacio. No puedes potenciar esta acción. Las cartas de personal que proporcionan beneficios por tomar un dado específico no pueden usarse, ya que no estás tomando un dado con esto. Esto no es un turno adicional, sino parte de tu turno actual, justo después de enviar a E. Gizia a una habitación y recoger todos los demás beneficios de él. Esto no afecta tu acción principal, para la cual debes tomar un dado, de ninguna manera. Para tu información; hemos debilitado el efecto en comparación con ediciones anteriores, en las que obtendrías un turno adicional"
+                },
+                {
+                    "id": "98",
+                    "name": "Marco Polo",
+                    "description": "Obtienes 4 coronas"
+                },
+                {
+                    "id": "99",
+                    "name": "Cramersófolo",
+                    "description": "Roba 1 carta de personal del mazo y añádela a tu mano. Además, puedes avanzar 2 espacios en la pista del Emperador"
+                },
+                {
+                    "id": "100",
+                    "name": "Granjero Franz",
+                    "description": "Puedes avanzar 3 espacios en la pista del Emperador. Además, puedes ocupar una habitación adicional (de cualquier color) girándola al lado ocupado. Farmer Franz y su esposa podrían usar una habitación adicional para sus cinco hijos"
+                },
+                {
+                    "id": "101",
+                    "name": "Fray Uwe",
+                    "description": "Puedes avanzar 3 espacios en la pista del Emperador. Además, puedes tomar un invitado de la fila sin costo"
+                },
+                {
+                    "id": "102",
+                    "name": "Conductor",
+                    "description": "Puedes avanzar 1 espacio en la pista del Emperador. Además, puedes ocupar una habitación adicional (de cualquier color) girándola al lado ocupado. El director podría usar una habitación adicional para su colega"
+                },
+                {
+                    "id": "103",
+                    "name": "Durgoing",
+                    "description": "Roba 2 cartas de personal del mazo y añádelas a tu mano"
+                },
+                {
+                    "id": "104",
+                    "name": "MacLeod",
+                    "description": "Puedes jugar una carta de personal desde la mano sin costo"
+                },
+                {
+                    "id": "105",
+                    "name": "A",
+                    "description": "Tienes 20 coronas"
+                },
+                {
+                    "id": "106",
+                    "name": "A",
+                    "description": "Tu marcador está en el espacio 10 o más alto en la pista del Emperador"
+                },
+                {
+                    "id": "107",
+                    "name": "A",
+                    "description": "Has jugado al menos 6 cartas de personal (de cualquier tipo)"
+                },
+                {
+                    "id": "108",
+                    "name": "A",
+                    "description": "Hay al menos 12 fichas de habitación (de cualquier color) en tu tablero de hotel. No importa si están vacantes u ocupadas"
+                },
+                {
+                    "id": "109",
+                    "name": "B",
+                    "description": "Al menos 2 pisos de tu hotel están completamente ocupados. Estos pisos no necesitan estar adyacentes"
+                },
+                {
+                    "id": "110",
+                    "name": "B",
+                    "description": "Al menos 2 columnas de tu hotel están completamente ocupadas. Estas columnas no necesitan estar adyacentes"
+                },
+                {
+                    "id": "111",
+                    "name": "B",
+                    "description": "Al menos 6 grupos de habitaciones en tu hotel (de cualquier color) están completamente ocupados. Los grupos no necesitan ser contiguos"
+                },
+                {
+                    "id": "112",
+                    "name": "B",
+                    "description": "Todas las habitaciones de al menos un color en tu hotel están ocupadas"
+                },
+                {
+                    "id": "113",
+                    "name": "C",
+                    "description": "Tienes al menos 3 habitaciones rojas, al menos 3 azules y al menos 3 amarillas ocupadas en tu hotel"
+                },
+                {
+                    "id": "114",
+                    "name": "C",
+                    "description": "Tienes al menos 4 habitaciones rojas y al menos 3 amarillas ocupadas en tu hotel"
+                },
+                {
+                    "id": "115",
+                    "name": "C",
+                    "description": "Tienes al menos 4 habitaciones amarillas y al menos 3 azules ocupadas en tu hotel"
+                },
+                {
+                    "id": "116",
+                    "name": "C",
+                    "description": "Tienes al menos 4 habitaciones azules y al menos 3 rojas ocupadas en tu hotel"
+                },
+                {
+                    "id": "117",
+                    "name": "Mag. Ferdinand",
+                    "description": "Puedes avanzar 3 espacios en la pista del Emperador"
+                },
+                {
+                    "id": "118",
+                    "name": "Sr. Moras",
+                    "description": "Puedes tomar un invitado de la fila sin costo"
+                },
+                {
+                    "id": "119",
+                    "name": "Maestro de Baile",
+                    "description": "Cada vez que tomes un dado que muestre 3, antes o después de realizar la acción principal, puedes enviar un bailarín al salón de baile pagando el costo normal. Además, obtienes 1 corona. No puedes realizar acciones adicionales entre la acción principal y enviar al bailarín"
+                },
+                {
+                    "id": "120",
+                    "name": "Violinista",
+                    "description": "Inmediatamente (y solo una vez), obtienes 3 champán"
+                },
+                {
+                    "id": "121",
+                    "name": "Concertista",
+                    "description": "Cada vez que tomes un dado que muestre 1, después de realizar la acción normalmente, obtienes 1 champán y obtienes 1 PV. El champán adicional no afecta las cantidades mínimas de strudel y pastel"
+                },
+                {
+                    "id": "122",
+                    "name": "Sinfonista",
+                    "description": "Una vez por ronda, puedes gastar exactamente 1 champán de tu cocina para obtener 5 PV"
+                },
+                {
+                    "id": "123",
+                    "name": "Acomodadora",
+                    "description": "Una vez por ronda, puedes gastar exactamente 2 coronas para obtener 1 champán y 3 PV"
+                },
+                {
+                    "id": "124",
+                    "name": "Director de Orquesta",
+                    "description": "Cada vez que tomes un dado que muestre 4, también obtienes 1 champán y 1 corona"
+                },
+                {
+                    "id": "125",
+                    "name": "Director del Coro",
+                    "description": "Cada vez que tomes un dado que muestre 5, antes o después de realizar la acción principal, puedes enviar un bailarín al salón de baile, pagando 1 champán menos. No puedes realizar ninguna acción adicional entre la acción principal y enviar al bailarín"
+                },
+                {
+                    "id": "126",
+                    "name": "Bailarina Principal",
+                    "description": "Durante la puntuación final, obtén 2 PV por cada bailarín que tengas en el salón de baile (incluyendo el balcón)"
+                },
+                {
+                    "id": "127",
+                    "name": "Arpista",
+                    "description": "Inmediatamente (y solo una vez) envía hasta 2 bailarines al mismo o a diferentes salones de baile, pagando hasta 2 champán menos por el primero y 1 champán menos por el segundo. No puedes realizar ninguna acción adicional entre estos movimientos"
+                },
+                {
+                    "id": "128",
+                    "name": "Violonchelista",
+                    "description": "Una vez por ronda, puedes gastar exactamente 1 plato o bebida de tu cocina para enviar a un bailarín a un salón de baile por 1 champán menos"
+                },
+                {
+                    "id": "129",
+                    "name": "Pianista",
+                    "description": "Una vez por ronda, puedes usar esta carta para obtener 1 champán"
+                },
+                {
+                    "id": "130",
+                    "name": "Maestro de Ballet",
+                    "description": "Cada vez que envíes un bailarín a un salón de baile, también obtienes 1 corona y puedes robar 1 carta de personal del mazo"
+                },
+                {
+                    "id": "131",
+                    "name": "Trompetista",
+                    "description": "Cada vez que tomes un dado que muestre 2, después de realizar la acción como normalmente, obtienes 1 champán y puedes robar 1 carta de personal del mazo. El champán adicional no afecta las cantidades mínimas de strudel y pastel"
+                },
+                {
+                    "id": "132",
+                    "name": "Arreglista",
+                    "description": "Cada vez que coloques un marcador en una carta de objetivo, también obtienes 2 champán"
+                },
+                {
+                    "id": "133",
+                    "name": "Capitán del Barco de Vapor del Danubio",
+                    "description": "Una vez por ronda, después de jugar una carta de personal (excepto esta), puedes enviar un bailarín a un salón de baile, pagando 1 champán menos. No puedes realizar ninguna acción adicional entre la acción principal y enviar al bailarín"
+                },
+                {
+                    "id": "134",
+                    "name": "Debutante",
+                    "description": "Obtienes 1 champán"
+                },
+                {
+                    "id": "135",
+                    "name": "Dama de Compañía",
+                    "description": "Puedes avanzar 1 espacio en la pista del Emperador. Además, puedes jugar una carta de personal desde la mano sin costo"
+                },
+                {
+                    "id": "136",
+                    "name": "Gobernanta",
+                    "description": "Obtienes 1 champán"
+                },
+                {
+                    "id": "137",
+                    "name": "Primera Bailarina",
+                    "description": "Obtienes 2 coronas. Además, puedes enviar hasta dos bailarines al mismo o a diferentes salones de baile pagando el costo normal"
+                },
+                {
+                    "id": "138",
+                    "name": "Maniquí",
+                    "description": "Obtienes 1 champán. Además, puedes jugar una carta de personal desde la mano pagando hasta 3 coronas menos"
+                },
+                {
+                    "id": "139",
+                    "name": "Diva",
+                    "description": "Obtienes 2 champán"
+                },
+                {
+                    "id": "140",
+                    "name": "Reina del Vals",
+                    "description": "Sin efecto"
+                },
+                {
+                    "id": "141",
+                    "name": "Khan",
+                    "description": "Obtienes 1 champán"
+                },
+                {
+                    "id": "142",
+                    "name": "Tenno",
+                    "description": "Obtienes 1 champán. Además, puedes preparar una habitación (de cualquier color) pagando 1 corona menos"
+                },
+                {
+                    "id": "143",
+                    "name": "Laird",
+                    "description": "Obtienes 2 platos y/o bebidas de tu elección (sin champán). Puedes combinar, por ejemplo, tomar un pastel y un café"
+                },
+                {
+                    "id": "144",
+                    "name": "Maharani",
+                    "description": "Obtienes 1 champán"
+                },
+                {
+                    "id": "145",
+                    "name": "Marqués",
+                    "description": "Obtienes 2 champán"
+                },
+                {
+                    "id": "146",
+                    "name": "Condesa",
+                    "description": "Sin efecto. ¡Pero vale 15 PV!"
+                },
+                {
+                    "id": "147",
+                    "name": "Zarina",
+                    "description": "Puedes enviar un bailarín al salón de baile pagando 1 champán menos. La Zarina puede reservar una habitación o ir a bailar; en cualquier caso, su esposo definitivamente va a bailar"
+                },
+                {
+                    "id": "148",
+                    "name": "Embajadora",
+                    "description": "Puedes enviar un bailarín al salón de baile pagando el costo normal. La Embajadora puede reservar una habitación o ir a bailar; en cualquier caso, su asistente definitivamente va a bailar"
+                },
+                {
+                    "id": "149",
+                    "name": "Abadesa",
+                    "description": "Obtienes 5 coronas"
+                },
+                {
+                    "id": "150",
+                    "name": "Consejero",
+                    "description": "Obtienes 1 champán y 2 coronas"
+                },
+                {
+                    "id": "151",
+                    "name": "Almirante Winterbottom",
+                    "description": "Puedes avanzar 2 espacios en la pista del Emperador. Además, puedes enviar un bailarín a un salón de baile pagando el costo normal. El Almirante puede reservar una habitación o ir a bailar; en cualquier caso, su teniente definitivamente va a bailar"
+                },
+                {
+                    "id": "152",
+                    "name": "Impresario",
+                    "description": "Obtienes 1 champán"
+                },
+                {
+                    "id": "153",
+                    "name": "Cardenal",
+                    "description": "Sin efecto. ¡Pero vale 14 PV!"
+                },
+                {
+                    "id": "154",
+                    "name": "Alcalde",
+                    "description": "Obtienes 2 champán. Además, puedes enviar un bailarín a un salón de baile pagando el costo normal. El Alcalde puede reservar una habitación o ir a bailar; en cualquier caso, su secretario definitivamente va a bailar"
+                },
+                {
+                    "id": "155",
+                    "name": "La Bestia",
+                    "description": "Obtienes 1 champán. Además, puedes preparar una habitación (de cualquier color) pagando el costo normal. Nota que pierdes 1 PV por La Bestia"
+                },
+                {
+                    "id": "156",
+                    "name": "Kapellmeister Palfy",
+                    "description": "Obtienes 2 champán"
+                },
+                {
+                    "id": "157",
+                    "name": "C. Inderella",
+                    "description": "Puedes enviar un bailarín a un salón de baile pagando el costo normal. Además, puedes ocupar una habitación (de cualquier color) girándola al lado ocupado. C. Inderella puede reservar una habitación o ir a bailar; en cualquier caso, uno de sus amigos definitivamente va a bailar y el otro se va a dormir"
+                },
+                {
+                    "id": "158",
+                    "name": "Fantasma",
+                    "description": "Obtienes 1 champán. Además, puedes tomar un invitado de la fila sin costo. Nota que pierdes 2 PV por el Fantasma"
+                },
+                {
+                    "id": "159",
+                    "name": "La Bella",
+                    "description": "Puedes enviar un bailarín a un salón de baile pagando el costo normal. Además, roba 3 cartas de personal del mazo y juega una de ellas de inmediato, pagando hasta 3 coronas menos. Devuelve las otras dos cartas al fondo del mazo en el orden que prefieras. La Bella puede reservar una habitación o ir a bailar; en cualquier caso, su hermana definitivamente va a bailar. Si las tres cartas son demasiado caras o no quieres jugar ninguna, debes devolver las tres al fondo del mazo"
+                },
+                {
+                    "id": "160",
+                    "name": "Medium",
+                    "description": "Obtienes 2 platos y/o bebidas de tu elección (sin champán). Además, obtienes 1 champán. Puedes combinar, por ejemplo, tomar un pastel y un café, y obtienes un champán adicional"
+                },
+                {
+                    "id": "161",
+                    "name": "Fiestero",
+                    "description": "Puedes enviar un bailarín a un salón de baile por hasta 2 champán menos. El Fiestero puede reservar una habitación o ir a bailar; en cualquier caso, su acompañante definitivamente va a bailar"
+                },
+                {
+                    "id": "162",
+                    "name": "Papa",
+                    "description": "El Papa debe mudarse a una habitación; no puede ser enviado a un salón de baile. A cambio, puedes ocupar una habitación adicional (de cualquier color) girándola al lado ocupado. El Papa podría usar una habitación adicional para su séquito"
+                },
+                {
+                    "id": "163",
+                    "name": "A",
+                    "description": "Tienes al menos 7 champán en tu cocina"
+                },
+                {
+                    "id": "164",
+                    "name": "B",
+                    "description": "Tienes al menos 7 bailarines repartidos en varios salones de baile (incluido el balcón)"
+                },
+                {
+                    "id": "165",
+                    "name": "C",
+                    "description": "Has completado los pedidos de al menos 4 invitados verdes"
+                },
+                {
+                    "id": "166",
+                    "name": "Doncella",
+                    "description": "Después de avanzar 3 o más espacios en la pista del Emperador durante una acción, puedes girar esta carta boca abajo. Si lo haces, puedes preparar hasta 2 habitaciones (de cualquier color) sin costo e inmediatamente ocuparlas girándolas al lado ocupado"
+                },
+                {
+                    "id": "167",
+                    "name": "Aprendiz",
+                    "description": "Después de completar el pedido de un invitado azul que requería al menos 3 artículos, puedes girar esta carta boca abajo. Si lo haces, inmediatamente (y solo una vez) obtienes 3 strudels y 3 pasteles"
+                },
+                {
+                    "id": "168",
+                    "name": "Lavaplatos",
+                    "description": "Después de completar el pedido de un invitado rojo que requería al menos 3 artículos, puedes girar esta carta boca abajo. Si lo haces, inmediatamente (y solo una vez) obtienes 3 vinos y 3 cafés"
+                },
+                {
+                    "id": "169",
+                    "name": "Barman",
+                    "description": "Después de completar el pedido de un invitado amarillo que requería al menos 3 artículos, puedes girar esta carta boca abajo. Si lo haces, inmediatamente (y solo una vez) obtienes 6 coronas"
+                },
+                {
+                    "id": "170",
+                    "name": "Cochera",
+                    "description": "Una vez por ronda, puedes gastar exactamente 1 café de tu cocina. Si lo haces, obtienes 3 PV y puedes tomar un invitado de la fila sin costo"
+                },
+                {
+                    "id": "171",
+                    "name": "Contador",
+                    "description": "Una vez por ronda, puedes gastar exactamente 1 pastel de tu cocina. Si lo haces, puedes preparar una habitación (de cualquier color), pagando hasta 2 coronas menos"
+                },
+                {
+                    "id": "172",
+                    "name": "Chef de Rango",
+                    "description": "Después de obtener 3 o más bebidas (vino y/o café) de una acción, puedes girar esta carta boca abajo. Si lo haces, inmediatamente (y solo una vez) avanzas 5 espacios en la pista del Emperador"
+                },
+                {
+                    "id": "173",
+                    "name": "Intérprete",
+                    "description": "Una vez por ronda, puedes gastar exactamente 2 strudels de tu cocina para obtener 2 coronas y 2 PV"
+                },
+                {
+                    "id": "174",
+                    "name": "Barman",
+                    "description": "Después de obtener 3 o más platos (strudel y/o pastel) durante una acción, puedes girar esta carta boca abajo. Si lo haces, puedes inmediatamente (y solo una vez) tomar un invitado de la fila sin costo y llenar su pedido tomando todos los artículos requeridos del suministro"
+                },
+                {
+                    "id": "175",
+                    "name": "Maestro de Carretas",
+                    "description": "Una vez por ronda, puedes gastar exactamente 2 platos y/o bebidas (sin champán) de tu cocina para obtener 2 platos y/o bebidas diferentes (sin champán) y obtener 2 PV"
+                },
+                {
+                    "id": "176",
+                    "name": "Paseador de Perros",
+                    "description": "Una vez por ronda, puedes gastar exactamente 2 vinos de tu cocina para obtener 2 PV y avanzar 2 espacios en la pista del Emperador"
+                },
+                {
+                    "id": "177",
+                    "name": "Peluquero",
+                    "description": "Una vez por ronda, puedes retroceder exactamente 2 espacios en la pista del Emperador para jugar una carta de personal desde la mano por hasta 3 coronas menos"
+                },
+                {
+                    "id": "178",
+                    "name": "Portero",
+                    "description": "Después de ocupar completamente un grupo (de cualquier color) que conste de al menos 3 habitaciones, puedes girar esta carta boca abajo. Si lo haces, puedes inmediatamente (y solo una vez) jugar hasta 2 cartas de personal desde la mano sin costo"
+                },
+                {
+                    "id": "179",
+                    "name": "Animador",
+                    "description": "Después de colocar un marcador en una carta de objetivo, puedes girar esta carta boca abajo. Si lo haces, puedes inmediatamente (y solo una vez) llenar hasta dos pedidos de invitados tomando los artículos requeridos del suministro"
+                },
+                {
+                    "id": "180",
+                    "name": "A",
+                    "description": "Tienes al menos 3 strudels, al menos 3 pasteles, al menos 3 vinos y al menos 3 cafés en tu cocina"
+                },
+                {
+                    "id": "181",
+                    "name": "B",
+                    "description": "Al menos 3 habitaciones (de cualquier color) en el último piso de tu hotel están ocupadas"
+                },
+                {
+                    "id": "182",
+                    "name": "C",
+                    "description": "Has completado pedidos de al menos 5 invitados que cada uno haya pedido 3 o más artículos. Para hacer seguimiento, no descartes a los invitados relevantes para este objetivo; mantenlos en una pila personal boca abajo hasta que completes este objetivo. Solo entonces colócalos en la pila de descartes"
+                },
+                {
+                    "id": "183",
+                    "name": "Hijo del Gerente",
+                    "description": "Cada vez que gastes al menos 1 champán durante una acción, obtienes 1 corona"
+                },
+                {
+                    "id": "184",
+                    "name": "E. Doolittle",
+                    "description": "Eliza debe ser enviada a un salón de baile; no puede ocupar una habitación. A cambio, puedes enviar un bailarín adicional que debes colocar en el mismo espacio de salón de baile que Eliza. Debes pagar el costo impreso en el espacio solo una vez (solo para Eliza) y obtienes el bono de fila solo una vez. Luego, obtienes 1 PV por cada ficha de bailarín que tengas en un salón de baile, incluyendo a Eliza y la segunda ficha de bailarín en el mismo espacio"
+                },
+                {
+                    "id": "185",
+                    "name": "M. Antoinette",
+                    "description": "Marie debe mudarse a una habitación. Además, puedes enviar un bailarín a un salón de baile pagando 1 champán menos por cada otro jugador en el juego. A cambio, cada otro jugador obtiene un plato o bebida de su elección (sin champán). Si mueves a Marie a su habitación en las rondas 1-3, obtienes 8 PV; en las rondas 4-5, obtienes 5 PV; en las rondas 6-7, obtienes 2 PV. Marie ocupa una habitación y va a bailar de todas formas"
+                },
+                {
+                    "id": "186",
+                    "name": "Lord Alcalde de Londres",
+                    "description": "Inmediatamente puntúa el salón de baile actual. Se volverá a puntuar como de costumbre después de la siguiente puntuación del Emperador. Por supuesto, todos los jugadores deben participar en esta puntuación adicional"
+                },
+                {
+                    "id": "187",
+                    "name": "J. Gatsby & D. Buchanan",
+                    "description": "Jay y Daisy deben mudarse a una habitación; no pueden ser enviados a un salón de baile. A cambio, puedes ocupar una habitación adicional (de cualquier color) girándola al lado ocupado. Además, avanza 4 espacios en la pista del Emperador. Nota que el costo es dos de cada artículo representado. Prefieren quedarse en sus habitaciones"
+                },
+                {
+                    "id": "188",
+                    "name": "Sra. Hildegard",
+                    "description": "La Sra. Hildegard debe mudarse a una habitación; no puede ser enviada a un salón de baile"
+                },
+                {
+                    "id": "189",
+                    "name": "Dr. Hagedorn",
+                    "description": "El Dr. Hagedorn no puede ser enviado a un salón de baile, debe ocupar dos habitaciones adyacentes horizontalmente (del mismo o de diferentes colores). El Dr. Hagedorn requiere una suite doble. Si tu hotel no tiene una, esperará en su mesa hasta que esté disponible"
+                },
+                {
+                    "id": "190",
+                    "name": "Sr. Schulze",
+                    "description": "El Sr. Schulze no puede ser enviado a un salón de baile ni ocupar una habitación, se queda en su mesa indefinidamente (por lo que no tiene costo). En su lugar, actúa como una carta de personal (aunque no se considera una) que te permite, una vez por ronda, gastar cualquier artículo (plato, bebida o champán). Si lo haces, puedes jugar una carta de personal desde la mano pagando su costo, obtienes 1 PV y avanzas 1 espacio en la pista del Emperador. Durante la puntuación final, no pierdes 5 puntos de victoria por el Sr. Schulze, incluso si sigue sentado en tu café"
+                },
+                {
+                    "id": "191",
+                    "name": "J. Kesselhut",
+                    "description": "Inmediatamente llena los pedidos de vino de tus invitados restantes con vino del suministro"
+                },
+                {
+                    "id": "192",
+                    "name": "Sra. Kunkel",
+                    "description": "La Sra. Kunkel no puede ser enviada a un salón de baile y debe ocupar una habitación en el piso inferior. Si no tienes habitaciones vacantes en el piso inferior, debes hacer el juego con una mesa menos para el resto del juego y, durante la puntuación final, sufrir la pérdida de 5 puntos de victoria por la Sra. Kunkel"
+                }
+            ]
+        }
+    ]
+}

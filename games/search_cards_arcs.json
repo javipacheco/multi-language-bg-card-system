@@ -1,0 +1,541 @@
+{
+    "translations": [
+        {
+            "lang": "es",
+            "cards": [
+                {
+                    "name": "UNIÓN ADMINISTRATIVA",
+                    "description": "**Preludio:** Puedes colocar esta carta junto a una carta de Administración jugada boca arriba. Cuando termine la ronda, roba esa carta y descarta esta.",
+                    "id": "4",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Ninguna"
+                    }
+                },
+                {
+                    "name": "UNIÓN ARMAMENTISTA",
+                    "description": "**Preludio:** Puedes colocar esta carta junto a una carta de Agresión jugada boca arriba. Cuando termine la ronda, roba esa carta y descarta esta.",
+                    "id": "11",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Ninguna"
+                    }
+                },
+                {
+                    "name": "UNIÓN DE CONSTRUCCIÓN",
+                    "description": "**Preludio:** Puedes colocar esta carta junto a una carta de Construcción jugada boca arriba. Cuando termine la ronda, roba esa carta y descarta esta.",
+                    "id": "5",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Ninguna"
+                    }
+                },
+                {
+                    "name": "EJECUTORES DEL TRIBUNAL",
+                    "description": "**Secuestro (Batalla):** Captura a todos los agentes Rivales de una carta en el Tribunal que tenga menos agentes Rivales que el total de íconos de Arma que posees en recursos y cartas. \n\n\n\n **Preludio:** Puedes descartar esta carta para colocar 3 naves en un sistema que controlas.",
+                    "id": "14",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Arma: Weapon"
+                    }
+                },
+                {
+                    "name": "CORREDOR ANCIANO",
+                    "description": "**Comercio (Impuesto):** Elige una ciudad Rival que controles. Intercambia 1 recurso con ese Rival: toma un recurso del tipo de esa ciudad y dale un recurso que él no tenga. \n\n\n\n **Preludio:** Puedes descartar esta carta para ganar 1 Material, 1 Combustible y 1 Arma.",
+                    "id": "23",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Material: Material \n\n\n\n Combustible: Fuel \n\n\n\n Arma: Weapon"
+                    }
+                },
+                {
+                    "name": "VIDENTES",
+                    "description": "Cuando **declares una ambición**, mira la mano de un Rival. Puedes intercambiar 1 carta con él. \n\n\n\n **Preludio:** Puedes descartar esta carta y cualquier cantidad de cartas de tu mano. Roba la misma cantidad de cartas (incluyendo Videntes) desde la parte inferior del mazo de descarte de acciones.",
+                    "id": "17",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Ninguna"
+                    }
+                },
+                {
+                    "name": "CÁRTEL DEL COMBUSTIBLE",
+                    "description": "Mantienes el suministro de Combustible **aquí**. *(Lo añades a Magnate pero no puedes gastarlo)* \n\n\n\n **Después de puntuar**, los Rivales descartan todo su Combustible. \n\n\n\n **Preludio:** Puedes descartar esta carta para robar 1 Combustible.",
+                    "id": "6",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Combustible: Fuel \n\n\n\n Magnate: Tycoon"
+                    }
+                },
+                {
+                    "name": "BARDS GALÁCTICOS",
+                    "description": "Cuando **Superes** o **Pivotes**, antes de tomar **cualquier** acción, puedes declarar la ambición en tu carta jugada si aún no se ha declarado una ambición en esta ronda. No coloques el marcador de cero.",
+                    "id": "25",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Ninguna"
+                    }
+                },
+                {
+                    "name": "GUARDIANES DE LA PUERTA",
+                    "description": "Cuando **luches** en una puerta, puedes lanzar 2 dados adicionales. \n\n\n\n **Preludio:** Puedes descartar esta carta para colocar 1 nave en cada puerta (a menos que esté fuera de juego).",
+                    "id": "8",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Ninguna"
+                    }
+                },
+                {
+                    "name": "ESPÍAS DE LA RED",
+                    "description": "**Preludio:** Antes de cualquier otra acción, puedes descartar esta carta para tomar la iniciativa. \n\n\n\n ¡No puedes tomar la iniciativa si ya la tienes o si ya se ha tomado en esta ronda!",
+                    "id": "16",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Ninguna"
+                    }
+                },
+                {
+                    "name": "EMPÁTICOS LEALES",
+                    "description": "Si **provocas Indignación**, conserva esta carta. \n\n\n\n Puedes gastar cualquier recurso como Psiónico. Ignoras la **Indignación** cuando gastas Psiónico para su acción de **Preludio**.",
+                    "id": "19",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Psiónico: Psionic \n\n\n\n Indignación: Outrage"
+                    }
+                },
+                {
+                    "name": "INGENIEROS LEALES",
+                    "description": "Si **provocas Indignación**, conserva esta carta. \n\n\n\n Puedes gastar cualquier recurso como Material. Ignoras la **Indignación** cuando gastas Material para su acción de **Preludio**.",
+                    "id": "1",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Material: Material \n\n\n\n Indignación: Outrage"
+                    }
+                },
+                {
+                    "name": "GUARDIANES LEALES",
+                    "description": "Si **provocas Indignación**, conserva esta carta. \n\n\n\n Puedes gastar cualquier recurso como Reliquias. Ignoras la **Indignación** cuando gastas Reliquias para su acción de **Preludio**.",
+                    "id": "21",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Reliquias: Relic \n\n\n\n Indignación: Outrage"
+                    }
+                },
+                {
+                    "name": "MARINES LEALES",
+                    "description": "Si **provocas Indignación**, conserva esta carta. \n\n\n\n Puedes gastar cualquier recurso como Armas. Ignoras la Indignación cuando gastas Armas para su acción de Preludio. \n\n\n\n **Preludio:** Puedes descartar esta carta para colocar 3 naves en un sistema que controlas.",
+                    "id": "15",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Armas: Weapon \n\n\n\n Indignación: Outrage"
+                    }
+                },
+                {
+                    "name": "PILOTOS LEALES",
+                    "description": "Si **provocas Indignación**, conserva esta carta. \n\n\n\n Puedes gastar cualquier recurso como Combustible. Ignoras la **Indignación** cuando gastas Combustible para su acción de **Preludio**.",
+                    "id": "7",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Combustible: Fuel \n\n\n\n Indignación: Outrage"
+                    }
+                },
+                {
+                    "name": "CÁRTEL DEL MATERIAL",
+                    "description": "Mantienes el suministro de Material aquí. *(Lo añades a Magnate pero no puedes gastarlo)*. \n\n\n\n **Después de puntuar**, los Rivales descartan todo su Material. \n\n\n\n **Preludio:** Puedes descartar esta carta para robar 1 Material.",
+                    "id": "3",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Material: Material \n\n\n\n Magnate: Tycoon"
+                    }
+                },
+                {
+                    "name": "INTERÉS MINERO",
+                    "description": "**Manufactura (Construcción):** Gana 1 Material. \n\n\n\n **Preludio:** Puedes descartar esta carta para ganar Material hasta la cantidad de espacios vacíos de recursos que tengas. Si se agota el suministro de Material, róbalo en su lugar.",
+                    "id": "2",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Ninguna"
+                    }
+                },
+                {
+                    "name": "ALCAIDES DE PRISIÓN",
+                    "description": "**Leva forzada (Construcción):** Devuelve cualquier cantidad de tus Cautivos para ganar 1 recurso por cada uno. \n\n\n\n **Ejecutar (Influencia):** Mueve cualquier cantidad de tus Cautivos a tus Trofeos. \n\n\n\n **Preludio:** Puedes descartar esta carta para colocar 3 naves en un sistema que controlas.",
+                    "id": "12",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Ninguna"
+                    }
+                },
+                {
+                    "name": "CERCADO DE RELIQUIAS",
+                    "description": "**Preludio:** Una vez por turno, puedes descartar 1 recurso para ganar 1 Reliquia.",
+                    "id": "24",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Reliquias: Relic"
+                    }
+                },
+                {
+                    "name": "ORDEN SECRETA",
+                    "description": "Cuando **declares** Guardián o Empático, no coloques el marcador de cero.",
+                    "id": "18",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Guardián: Keeper \n\n\n\n Empático: Empath"
+                    }
+                },
+                {
+                    "name": "INTERÉS NAVIERO",
+                    "description": "**Sintetizar (Construcción):** Gana 1 Combustible. \n\n\n\n **Preludio:** Puedes descartar esta carta para ganar Combustible hasta la cantidad de espacios vacíos de recursos que tengas. Si se agota el suministro de Combustible, róbalo en su lugar.",
+                    "id": "9",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Combustible: Fuel"
+                    }
+                },
+                {
+                    "name": "LENGUAS DE PLATA",
+                    "description": "**Preludio:** Puedes descartar esta carta para robar una carta de Gremio o un recurso.",
+                    "id": "20",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Gremio: Guild"
+                    }
+                },
+                {
+                    "name": "GUERRILLEROS",
+                    "description": "Después de lanzar en **batalla**, puedes volver a lanzar un número de dados de escaramuza hasta tu total de íconos de Arma en recursos y cartas. \n\n\n\n **Preludio:** Puedes descartar esta carta para colocar 3 naves en un sistema que controlas.",
+                    "id": "13",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Arma: Weapon"
+                    }
+                },
+                {
+                    "name": "UNIÓN ESPACIAL",
+                    "description": "**Preludio:** Puedes colocar esta carta junto a una carta de Movilización jugada boca arriba. Cuando termine la ronda, roba esa carta y descarta esta.",
+                    "id": "10",
+                    "data": {
+                        "type": "GUILD",
+                        "references": "Ninguna"
+                    }
+                },
+                {
+                    "name": "GUARDIANES JURADOS",
+                    "description": "Los Rivales no pueden robar tus recursos ni otras cartas de Gremio. (En batalla pueden robar esta carta primero y luego gastar llaves). \n\n\n\n Si esta carta es robada, entiérrala. *(Colócala en la parte inferior del mazo del Tribunal)*",
+                    "id": "22",
+                    "data": {
+                        "type": "VOX",
+                        "references": "Gremio: Guild"
+                    }
+                },
+                {
+                    "name": "LLAMADA A LA ACCIÓN",
+                    "description": "**Cuando se asegura:** Roba 1 carta de acción de la parte inferior de la pila de descarte de acción. Descarta **Llamada a la Acción**.",
+                    "id": "31",
+                    "data": {
+                        "type": "VOX",
+                        "references": "Asegura: Secured"
+                    }
+                },
+                {
+                    "name": "LUCHA DE GREMIO",
+                    "description": "**Cuando se asegura:** Puedes robar 1 carta de Gremio de un Rival. Baraja todas las cartas de Gremio de la pila de descarte de la Corte en el mazo de la Corte. Descarta Lucha de Gremio.",
+                    "id": "30",
+                    "data": {
+                        "type": "VOX",
+                        "references": "Gremio: Guild \n\n\n\n Asegura: Secured"
+                    }
+                },
+                {
+                    "name": "LEVANTAMIENTO MASIVO",
+                    "description": "**Cuando se asegura:** Elige un grupo en el mapa. Coloca 1 nave en cada sistema de ese grupo. Descarta esta carta.",
+                    "id": "26",
+                    "data": {
+                        "type": "VOX",
+                        "references": "Grupo: Cluster \n\n\n\n Asegura: Secured"
+                    }
+                },
+                {
+                    "name": "LA INDIGNACIÓN SE PROPAGA",
+                    "description": "**Cuando se asegura:** Puedes elegir un tipo de Indignación. Cada jugador (incluso tú) debe provocar Indignación de ese tipo. Descarta esta carta.",
+                    "id": "28",
+                    "data": {
+                        "type": "VOX",
+                        "references": "Indignación: Outrage \n\n\n\n Asegura: Secured"
+                    }
+                },
+                {
+                    "name": "DEMANDAS POPULISTAS",
+                    "description": "**Cuando se asegura:** Puedes declarar cualquier ambición. (Debe haber un marcador de ambición disponible). Descarta esta carta.",
+                    "id": "27",
+                    "data": {
+                        "type": "VOX",
+                        "references": "Asegura: Secured"
+                    }
+                },
+                {
+                    "name": "CANCIÓN DE LIBERTAD",
+                    "description": "**Cuando se asegura:** Puedes devolver una ciudad que controles al tablero de su jugador. Si lo haces, puedes tomar la iniciativa. Baraja esta carta en el mazo de la Corte. \n\n\n\n ¡No puedes tomar la iniciativa si ya la tienes o si ya ha sido tomada en esta ronda!",
+                    "id": "29",
+                    "data": {
+                        "type": "VOX",
+                        "references": "Asegura: Secured"
+                    }
+                }
+            ]
+        },
+        {
+            "lang": "en",
+            "cards": [
+                {
+                    "name": "ADMIN UNION",
+                    "description": "**Prelude:** You may place this card next to a face-up played Administration card. When the round ends, draw that card into your hand and discard this card.",
+                    "id": "4",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "ARMS UNION",
+                    "description": "**Prelude:** You may place this card next to a face-up played Aggression card. When the round ends, draw that card into your hand and discard this card.",
+                    "id": "11",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "CONSTRUCTION UNION",
+                    "description": "**Prelude:** You may place this card next to a face-up played Construction card. When the round ends, draw that card into your hand and discard this card.",
+                    "id": "5",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "COURT ENFORCERS",
+                    "description": "**Abduct (Battle):** Capture all Rival agents from a card in the Court that has fewer Rival agents than your total Weapon icons from resources and cards. \n\n\n\n **Prelude:** You may discard this to place 3 ships in a system you control.",
+                    "id": "14",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "ELDER BROKER",
+                    "description": "**Trade (Tax):** Choose a Rival city you control. Swap 1 resource with that Rival—take a resource of that city type from them, and give them a resource they don't have. \n\n\n\n **Prelude:** You may discard this to gain 1 Material, 1 Fuel, and 1 Weapon.",
+                    "id": "23",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "FARSEERS",
+                    "description": "When you **declare an ambition**, look at a Rival's hand. You may swap 1 card with them. \n\n\n\n **Prelude:** You may discard this and any number of cards from your hand. Draw the same number of cards *(including Farseers)* from the bottom of the action discard pile.",
+                    "id": "17",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "FUEL CARTEL",
+                    "description": "You keep the Fuel supply on here. *(You add it to Tycoon but can't spend it.)* \n\n\n\n After **scoring**, Rivals discard all Fuel. \n\n\n\n **Prelude:** You may discard this to steal 1 Fuel.",
+                    "id": "6",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "GALACTIC BARDS",
+                    "description": "When you **Surpass** or **Pivot**, before taking **any** actions, you may declare the ambition on your played card if an ambition has not been declared yet this round. Do not place the zero marker.",
+                    "id": "25",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "GATEKEEPERS",
+                    "description": "When you **battle** in a gate, you may collect 2 more dice. \n\n\n\n **Prelude:** You may discard this to place 1 ship in each gate *(unless out of play)*.",
+                    "id": "8",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "LATTICE SPIES",
+                    "description": "**Prelude:** Before any other actions, you may discard this to seize the initiative. \n\n\n\n *You can't seize the initiative if you have it or if it's already seized this round!*",
+                    "id": "16",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "LOYAL EMPATHS",
+                    "description": "If you **Provoke Outrage**, keep this card. \n\n\n\n You may spend any resources as Psionic. You ignore Outrage when spending Psionic for its Prelude action.",
+                    "id": "19",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "LOYAL ENGINEERS",
+                    "description": "If you **Provoke Outrage**, keep this card. \n\n\n\n You may spend any resources as Material. You ignore Outrage when spending Material for its Prelude action.",
+                    "id": "1",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "LOYAL KEEPERS",
+                    "description": "If you **Provoke Outrage**, keep this card. \n\n\n\n You may spend any resources as Relics. You ignore Outrage when spending Relics for their Prelude action.",
+                    "id": "21",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "LOYAL MARINES",
+                    "description": "If you **Provoke Outrage**, keep this card. \n\n\n\n You may spend any resources as Weapons. You ignore Outrage when spending Weapons for their Prelude action. \n\n\n\n **Prelude:** You may discard this to place 3 ships in a system you control.",
+                    "id": "15",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "LOYAL PILOTS",
+                    "description": "If you **Provoke Outrage**, keep this card. \n\n\n\n You may spend any resources as Fuel. You ignore Outrage when spending Fuel for its Prelude action.",
+                    "id": "7",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "MATERIAL CARTEL",
+                    "description": "You keep the Material supply on here. *(You add it to Tycoon but can't spend it.)* \n\n\n\n After **scoring**, Rivals discard all Material. \n\n\n\n **Prelude:** You may discard this to steal 1 Material.",
+                    "id": "3",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "MINING INTEREST",
+                    "description": "**Manufacture (Build):** Gain 1 Material. \n\n\n\n **Prelude:** You may discard this to gain Material up to your number of empty resource slots. If the Material supply empties, steal the Material instead.",
+                    "id": "2",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "PRISON WARDENS",
+                    "description": "**Pressgang (Build):** Return any number of your Captives to gain any 1 resource for each. \n\n\n\n **Execute (Influence):** Move any number of your Captives to your Trophies. \n\n\n\n **Prelude:** You may discard this to place 3 ships in a system you control.",
+                    "id": "12",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "RELIC FENCE",
+                    "description": "**Prelude:** Once per turn, you may discard 1 resource to gain 1 Relic.",
+                    "id": "24",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "SECRET ORDER",
+                    "description": "When you **declare** Keeper or Empath, do not place the zero marker.",
+                    "id": "18",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "SHIPPING INTEREST",
+                    "description": "**Synthesize (Build):** Gain 1 Fuel. \n\n\n\n **Prelude:** You may discard this to gain Fuel up to your number of empty resource slots. If the Fuel supply empties, steal the Fuel instead.",
+                    "id": "9",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "SILVER—TONGUES",
+                    "description": "**Prelude:** You may discard this to steal a Guild card or resource.",
+                    "id": "20",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "SKIRMISHERS",
+                    "description": "After you roll in **battle**, you may reroll a number of skirmish dice up to your total Weapon icons from resources and cards. \n\n\n\n **Prelude:** You may discard this to place 3 ships in a system you control.",
+                    "id": "13",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "SPACING UNION",
+                    "description": "**Prelude:** You may place this card next to a face-up played Mobilization card. When the round ends, draw that card into your hand and discard this card.",
+                    "id": "10",
+                    "data": {
+                        "type": "GUILD"
+                    }
+                },
+                {
+                    "name": "SWORN GUARDIANS",
+                    "description": "Rivals cannot steal your resources and other Guild cards. (In battle they can steal this first and then spend **keys**) \n\n\n\n If this card is stolen, bury it. (Place it on the bottom of the Court deck.)",
+                    "id": "22",
+                    "data": {
+                        "type": "VOX"
+                    }
+                },
+                {
+                    "name": "CALL TO ACTION",
+                    "description": "**When Secured:** Draw 1 action card from the bottom of the action discard pile. Discard **Call to Action**.",
+                    "id": "31",
+                    "data": {
+                        "type": "VOX"
+                    }
+                },
+                {
+                    "name": "GUILD STRUGGLE",
+                    "description": "When Secured: You may steal 1 Guild card from a Rival. Shuffle all Guild cards from the Court discard pile into the Court deck. Discard Guild Struggle.",
+                    "id": "30",
+                    "data": {
+                        "type": "VOX"
+                    }
+                },
+                {
+                    "name": "MASS UPRISING",
+                    "description": "**When Secured:** Choose a cluster on the map. You place 1 ship in each system of that cluster. Discard this card.",
+                    "id": "26",
+                    "data": {
+                        "type": "VOX"
+                    }
+                },
+                {
+                    "name": "OUTRAGE SPREADS",
+                    "description": "**When Secured:** You may choose an Outrage type. Each player (even you) must Provoke Outrage of that type. Discard this card.",
+                    "id": "28",
+                    "data": {
+                        "type": "VOX"
+                    }
+                },
+                {
+                    "name": "POPULIST DEMANDS",
+                    "description": "**When Secured:** You may declare any ambition. *(An ambition marker must be Available.)* Discard this card.",
+                    "id": "27",
+                    "data": {
+                        "type": "VOX"
+                    }
+                },
+                {
+                    "name": "SONG OF FREEDOM",
+                    "description": "**When Secured:** You may return any one city you control to its player board. If you do, you may seize the initiative. Shuffle this card into the Court deck. \n\n\n\n *You can't seize the initiative if you have it or if it's already seized this round!*",
+                    "id": "29",
+                    "data": {
+                        "type": "VOX"
+                    }
+                }
+            ]
+        }
+    ]
+}
