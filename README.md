@@ -45,6 +45,18 @@ The following games include the JSON file to demonstrate the structure and forma
 - [View Grand Austria Hotel Example](./games/search_cards_grand_hotel_austria.json)
 - [View Arcs Example](./games/search_cards_arcs.json)
 
+## Screenshoots
+
+Arcs
+
+
+A Feast for Odin
+
+
+Grand Austria Hotel
+
+
+
 # License
 
     Copyright (C) 2020 Javi Pacheco
