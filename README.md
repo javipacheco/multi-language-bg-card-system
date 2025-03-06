@@ -49,15 +49,15 @@ The following games include the JSON file to demonstrate the structure and forma
 
 Arcs
 
-![Arcs](https://raw.githubusercontent.com/javipacheco/multi-language-bg-card-system/refs/heads/main/images/arcs.png)
+<img alt="Arcs" src="https://raw.githubusercontent.com/javipacheco/multi-language-bg-card-system/refs/heads/main/images/arcs.png" width="128"/>
 
 A Feast for Odin
 
-![A Feast for Odin](https://raw.githubusercontent.com/javipacheco/multi-language-bg-card-system/refs/heads/main/images/odin.png)
+<img alt="A Feast for Odin" src="https://raw.githubusercontent.com/javipacheco/multi-language-bg-card-system/refs/heads/main/images/odin.png" width="128"/>
 
 Grand Austria Hotel
 
-![Grand Austria Hotel](https://raw.githubusercontent.com/javipacheco/multi-language-bg-card-system/refs/heads/main/images/austria_hotel.png)
+<img alt="Grand Austria Hotel" src="https://raw.githubusercontent.com/javipacheco/multi-language-bg-card-system/refs/heads/main/images/austria_hotel.png" width="128"/>
 
 # License
 
